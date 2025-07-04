@@ -1,0 +1,1001 @@
+Roll No,Name,Gender,Age,Parents’ Education,Occupation,Family Income,Attendance (%),Previous Exam Performance,Hours of Study per Day,Hours of Sleep per Day,Class Participation,Assignment Submission Rate (%),Enrolled in Test Preparation Course,Receiving Tuition,Hours of Self-Study per Day,Health Status,Stress Level,Extra-Curricular Activities,Pass or Fail,Source of Study,Expected Percentage,Actual Percentage
+1,Rahul,Male,16,UG,Accountant,177794,85.49,65.88,1.5,5.9,Low,83.81,No,Yes,1.2,Good,2,None,Pass,Offline,52,53
+2,Manish,Male,14,UG,Accountant,146094,82.63,65.11,1.1,7.8,Low,51.11,Yes,Yes,0.6,Good,1,Dance,Pass,Online,52,53
+3,Rahul,Male,18,PG,Doctor,193034,74.42,61.74,4.6,6.1,High,81.63,No,Yes,3.2,Average,4,Dance,Pass,Offline,52,53
+4,Abhishek,Male,15,High School,Farmer,424454,71.06,64.33,3.1,8.1,Low,76.21,Yes,No,1.9,Good,5,Art,Pass,Offline,34,29
+5,Isha,Female,18,PG,Engineer,107881,68.54,54.7,1.1,6.7,High,86.02,Yes,No,0.1,Excellent,3,Music,Pass,Offline,52,53
+6,Simran,Female,15,High School,Farmer,437456,66.51,51.45,1.5,7.3,High,82.4,No,No,3.6,Excellent,2,Dance,Pass,Online,44,43
+7,Kavya,Female,14,PG,Doctor,412433,54.96,83.5,1.4,8.8,Low,57,Yes,Yes,0.1,Average,4,Art,Pass,Online,52,53
+8,Nikhil,Male,15,High School,Shopkeeper,211536,76.88,88.07,4.3,8.8,Low,51.71,Yes,Yes,1.2,Average,5,Art,Pass,Online,44,42
+9,Amit,Male,14,UG,Teacher,112394,93.81,60.91,1.4,7.2,High,69.2,Yes,No,3.9,Excellent,5,Sports,Pass,Offline,52,51
+10,Vikram,Male,17,High School,Driver,453142,79.42,91.52,4.3,7.8,Medium,96.67,No,Yes,3.9,Average,2,Sports,Pass,Online,66,69
+11,Amit,Male,15,UG,Salesperson,345152,70.25,94.87,3.3,8.5,High,59.24,No,Yes,2.4,Excellent,3,Sports,Pass,Offline,52,53
+12,Trisha,Female,17,High School,Driver,381798,93.11,98.65,1.3,8.2,Low,95.82,No,Yes,2.4,Poor,5,Dance,Pass,Online,20,18
+13,Harsh,Male,17,PG,Engineer,57329,88.01,55.08,1.8,5.6,Low,59.38,No,Yes,1.2,Excellent,3,None,Pass,Offline,52,53
+14,Krishna,Male,14,PG,Manager,54959,93.16,51.91,4.2,8.7,Low,60.61,Yes,No,1.7,Poor,1,None,Pass,Online,52,53
+15,Tanya,Female,15,UG,Technician,367371,59.83,54.77,2.1,5.2,Medium,61.4,Yes,No,3.4,Poor,1,None,Pass,Offline,52,53
+16,Vivaan,Male,14,High School,Driver,243227,62.69,79.21,5.3,5.8,High,80.53,No,No,0.3,Poor,4,Dance,Pass,Online,59,57
+17,Komal,Female,18,High School,Driver,444489,56.65,46.49,4.9,7.9,Medium,54.28,Yes,Yes,3.3,Average,3,Dance,Pass,Offline,64,59
+18,Diya,Female,17,UG,Teacher,135733,75.83,73.01,4.8,6.1,Medium,91.39,No,Yes,0,Good,5,Art,Pass,Offline,52,49
+19,Vikram,Male,18,UG,Salesperson,460780,70.83,85.28,3.1,7.7,Medium,77.48,Yes,No,3.7,Average,3,None,Pass,Online,52,53
+20,Aryan,Male,16,UG,Teacher,394897,80.55,82.17,5.1,6.9,Medium,76.05,Yes,No,3.5,Average,4,None,Pass,Offline,52,53
+21,Raj,Male,15,High School,Farmer,73145,64.75,62.13,3.6,6.9,High,57.94,Yes,Yes,3,Poor,1,Dance,Pass,Offline,68,76
+22,Manish,Male,14,UG,Clerk,224633,90.88,54.29,4.5,7.2,High,52.17,Yes,Yes,3,Good,2,Sports,Pass,Online,52,53
+23,Diya,Female,15,PG,Scientist,79548,80.95,92.64,3.2,5.3,High,52.64,No,No,0.2,Average,5,Music,Pass,Offline,52,48
+24,Amit,Male,16,UG,Teacher,429217,63.39,85.11,3,7.1,Low,69.34,No,Yes,1.4,Excellent,4,None,Pass,Offline,52,53
+25,Nikita,Female,14,PG,Doctor,287754,98.36,51.82,2.6,8.7,High,70.05,No,No,1.4,Poor,1,Dance,Pass,Online,52,53
+26,Swati,Female,18,UG,Teacher,86920,59.58,64.93,4.1,8.7,Low,74.13,No,No,1.8,Average,4,None,Pass,Online,52,53
+27,Trisha,Female,15,UG,Accountant,265812,97.57,56.5,1.8,8.2,Medium,86.52,Yes,Yes,1,Excellent,5,Sports,Pass,Online,52,49
+28,Krishna,Male,14,UG,Teacher,402857,50.23,75.24,5.6,7.9,Low,73.36,Yes,Yes,3.8,Poor,5,Dance,Pass,Online,52,47
+29,Rahul,Male,14,PG,Engineer,234214,63.41,82.51,4.7,7,Medium,82.27,Yes,No,3.4,Average,5,Music,Pass,Offline,52,50
+30,Komal,Female,15,UG,Teacher,72863,51.85,55.81,5.3,6.2,High,51.22,No,No,0.3,Poor,2,Sports,Pass,Online,52,53
+31,Nikita,Female,17,UG,Salesperson,140722,67.49,88.55,2,7.6,Medium,53.34,No,No,0.9,Good,2,Art,Pass,Online,52,53
+32,Harsh,Male,17,High School,Driver,140576,68.97,85.7,1.7,8.3,High,77.72,Yes,No,0.8,Excellent,5,Music,Pass,Online,23,18
+33,Trisha,Female,15,High School,Shopkeeper,442700,90.52,80.67,2.8,6.7,High,52.26,No,No,2.3,Good,2,Music,Pass,Offline,54,54
+34,Aryan,Male,15,UG,Salesperson,289460,78.57,43.96,2.7,8.1,Medium,98.43,No,No,0,Good,5,None,Pass,Online,52,50
+35,Nikita,Female,16,UG,Accountant,435884,70.89,64.32,1.9,7.3,Medium,91.8,No,No,0.7,Excellent,2,Dance,Pass,Online,52,53
+36,Pranav,Male,15,UG,Clerk,400013,90.61,85.14,1.1,6.5,High,55.92,No,Yes,0.2,Average,3,None,Pass,Online,52,53
+37,Anjali,Female,17,UG,Salesperson,452419,99.92,84.84,2.5,6.5,High,91.61,Yes,No,1.6,Poor,2,Art,Pass,Online,52,53
+38,Siddharth,Male,14,PG,Doctor,172337,93.93,64.45,1.2,7,High,68.37,No,Yes,2.6,Poor,2,Dance,Pass,Online,52,53
+39,Aditya,Male,17,High School,Security Guard,106570,65.05,62.3,5.7,5.6,High,75.24,No,No,2.8,Excellent,4,None,Pass,Offline,63,56
+40,Yash,Male,15,PG,Engineer,125000,96.33,58.61,2.1,5.2,High,65.23,Yes,No,3.1,Average,5,Art,Pass,Offline,52,47
+41,Vikram,Male,15,PG,Scientist,462300,51.97,70.01,2.2,8.2,Medium,92.6,No,No,1.4,Excellent,5,Art,Pass,Offline,52,49
+42,Swati,Female,16,UG,Teacher,355164,59.32,67.78,1.4,5.5,Low,79.82,Yes,Yes,2.3,Average,2,Music,Pass,Offline,52,53
+43,Rahul,Male,16,PG,Manager,219216,93.09,74.17,2.4,5.3,Low,55.33,No,Yes,2.4,Poor,4,None,Pass,Online,52,53
+44,Isha,Female,17,High School,Driver,450801,74.14,88.6,1.6,7.1,Medium,73.2,Yes,No,2.7,Good,1,Art,Pass,Online,52,54
+45,Pooja,Female,16,High School,Tailor,378120,81.61,70.65,4.6,8.8,Medium,89.25,Yes,No,3.1,Poor,3,Music,Pass,Online,61,61
+46,Yash,Male,15,UG,Clerk,71563,77.22,62.53,5,7.5,Low,80.77,No,Yes,0.3,Excellent,4,Art,Pass,Online,52,53
+47,Kunal,Male,14,High School,Driver,314026,82.48,96.87,4.3,8.3,Medium,51.04,Yes,Yes,0,Excellent,4,Music,Pass,Online,51,49
+48,Tanya,Female,17,UG,Technician,107280,91.78,69.01,6,5.7,Medium,80.98,Yes,No,0.1,Average,3,Art,Pass,Online,52,53
+49,Shreya,Female,16,High School,Tailor,476371,99.52,47.49,5.3,5,Low,88.17,Yes,Yes,2.9,Excellent,1,Art,Pass,Offline,82,84
+50,Bhavna,Female,15,UG,Technician,53772,60.94,75.24,2.6,5.3,Medium,97.59,Yes,No,3.3,Good,2,None,Pass,Online,52,53
+51,Nikita,Female,15,High School,Shopkeeper,402529,89.09,84.33,4.2,8.2,Low,59.31,No,No,1.1,Good,5,Sports,Pass,Online,43,38
+52,Amit,Male,14,PG,Professor,340555,58.47,84.33,1.5,6.3,High,77.59,Yes,No,2.8,Good,2,Art,Pass,Offline,52,53
+53,Isha,Female,15,High School,Tailor,130620,59.02,47.52,5.3,8.7,High,89.18,No,Yes,0.6,Good,4,Music,Pass,Online,59,56
+54,Kavya,Female,18,PG,Doctor,461325,89.31,53.23,3.3,8.2,Medium,80.48,Yes,No,0.2,Poor,5,Art,Pass,Online,52,50
+55,Rahul,Male,16,High School,Security Guard,280228,92.91,42.29,2.3,7.7,Medium,87.47,Yes,Yes,2.4,Excellent,4,Music,Pass,Online,35,41
+56,Amit,Male,15,PG,Manager,244143,88.38,69.32,5.8,5.6,Low,85.59,No,Yes,1.3,Excellent,3,None,Pass,Online,52,53
+57,Aryan,Male,16,UG,Salesperson,94075,80.41,74.77,3.2,8.9,High,66.53,No,Yes,0.1,Average,5,Art,Pass,Offline,52,50
+58,Pooja,Female,14,UG,Salesperson,380844,96.47,92.02,2.3,5.5,Medium,79.93,No,No,0.7,Excellent,3,Sports,Pass,Offline,52,53
+59,Abhishek,Male,14,PG,Engineer,287725,74.49,67.78,2.4,8.9,Medium,55.18,Yes,Yes,1.9,Good,5,None,Pass,Offline,52,50
+60,Amit,Male,16,UG,Technician,149640,81.63,80.48,3.6,6.1,Low,72.84,Yes,Yes,2,Average,2,Sports,Pass,Offline,52,53
+61,Shreya,Female,15,UG,Clerk,63375,87.46,70.72,5.2,6.6,Low,62.09,No,No,2.5,Excellent,2,Music,Pass,Online,52,53
+62,Priya,Female,15,High School,Tailor,176501,79.42,66.32,5.1,8.5,Medium,79.11,No,No,2,Poor,5,Sports,Pass,Online,50,49
+63,Shreya,Female,14,PG,Professor,120355,83.64,61.17,3.2,8.2,High,71.85,Yes,No,1.8,Excellent,5,Sports,Pass,Offline,52,47
+64,Neha,Female,18,High School,Driver,286203,58.71,82.04,3.7,7,Medium,86.71,Yes,Yes,1.7,Poor,5,None,Pass,Offline,39,33
+65,Isha,Female,16,PG,Professor,384772,57.67,79.39,3.3,8.8,Low,65.4,Yes,Yes,2.1,Good,1,Sports,Pass,Online,52,53
+66,Sakshi,Female,16,PG,Professor,125973,77.13,84.18,1.3,8.4,High,87.62,Yes,No,3.7,Poor,3,Music,Pass,Online,52,53
+67,Pranav,Male,17,PG,Manager,439954,76.18,79.1,4.3,5.5,High,58.84,Yes,No,1.6,Good,4,Art,Pass,Offline,52,53
+68,Isha,Female,16,PG,Engineer,159005,53.65,60.93,2,6.2,Low,61.65,Yes,Yes,1.4,Excellent,2,Sports,Pass,Online,52,53
+69,Aanya,Female,16,UG,Salesperson,262859,64.84,74.74,5.7,8.9,High,87.19,No,Yes,2.1,Excellent,5,None,Pass,Offline,52,48
+70,Aarav,Male,18,UG,Clerk,471354,87.47,85.09,6,6.6,Medium,90.48,No,Yes,3.7,Poor,1,Sports,Pass,Online,52,53
+71,Nikhil,Male,15,UG,Teacher,316476,59.97,87.79,4.9,8.9,Low,95.8,Yes,Yes,3.1,Good,2,Sports,Pass,Offline,52,53
+72,Sakshi,Female,14,UG,Salesperson,61445,72.78,77.93,2.6,5.7,Low,89.33,Yes,No,3.9,Good,4,Dance,Pass,Online,52,53
+73,Aarav,Male,15,PG,Engineer,429275,50.43,79.99,4.9,7.8,Low,56.4,Yes,No,2.1,Excellent,3,Music,Pass,Offline,52,53
+74,Bhavna,Female,18,UG,Technician,276705,62.33,46.89,3.3,5.9,Medium,77,Yes,No,0.3,Excellent,2,Art,Pass,Offline,52,53
+75,Riya,Female,16,UG,Salesperson,205182,89.23,52.8,4.6,7.7,Medium,74.5,No,Yes,2.4,Excellent,2,Art,Pass,Offline,52,53
+76,Komal,Female,18,High School,Farmer,95644,54.45,44.68,1.7,8.6,High,96.95,No,No,3,Average,2,Dance,Pass,Online,46,46
+77,Diya,Female,15,UG,Technician,249429,66.54,73.34,1.3,6.6,Low,99.89,No,No,1.6,Poor,1,Dance,Pass,Online,52,53
+78,Sakshi,Female,15,PG,Scientist,108105,54.31,82.78,2.1,8.2,High,69.61,No,Yes,1.4,Excellent,5,Sports,Pass,Offline,52,49
+79,Kunal,Male,16,High School,Tailor,138973,74,93.22,5.6,6.1,Low,93.23,Yes,No,3.1,Poor,1,Music,Pass,Online,84,88
+80,Swati,Female,15,PG,Professor,59250,90.08,40.47,4.7,5.5,Medium,70.08,Yes,No,2.9,Excellent,4,Sports,Pass,Offline,52,53
+81,Kavya,Female,14,PG,Engineer,55157,54.32,57.07,2.5,7.2,Medium,61.31,Yes,No,1.8,Good,5,Music,Pass,Online,52,49
+82,Amit,Male,16,High School,Tailor,212063,74.24,54.09,1.4,7.2,High,60.29,No,Yes,3.2,Average,1,None,Pass,Offline,51,52
+83,Aditya,Male,16,UG,Accountant,395811,87.34,76.47,5.6,8,Medium,94.85,No,Yes,3.3,Excellent,3,Music,Pass,Online,52,53
+84,Harsh,Male,17,High School,Shopkeeper,98965,96.26,83.12,2.6,8,High,53.92,Yes,Yes,2.7,Good,2,Art,Pass,Online,53,50
+85,Nikita,Female,14,UG,Teacher,137233,71.98,66.42,4.6,5.6,Medium,95.01,Yes,No,3.4,Good,5,Sports,Pass,Offline,52,51
+86,Aryan,Male,16,High School,Tailor,392818,89.61,86.51,4.4,6.1,Medium,60.85,No,Yes,3.3,Good,1,Music,Pass,Online,75,76
+87,Simran,Female,15,High School,Farmer,433118,66.33,41.21,2.6,6.4,Medium,95.5,Yes,No,1.3,Poor,5,None,Pass,Offline,30,29
+88,Meera,Female,18,PG,Manager,388336,56.07,68.3,5.4,7,High,98.45,No,No,0.6,Good,2,Music,Pass,Offline,52,53
+89,Raj,Male,16,UG,Salesperson,280081,69.71,58.97,4.9,8.6,Medium,57.42,No,No,1.7,Average,5,Art,Pass,Offline,52,50
+90,Bhavna,Female,18,High School,Driver,459376,65.31,82.13,4.9,6.3,Medium,94.54,Yes,No,3.9,Poor,1,Sports,Pass,Offline,79,81
+91,Simran,Female,15,PG,Scientist,122784,90.07,61.51,2.4,6,High,82.15,No,Yes,2.2,Excellent,3,Sports,Pass,Offline,52,53
+92,Krishna,Male,18,High School,Farmer,447438,74.52,91.02,1.5,5.9,Low,84.46,No,No,1.8,Excellent,5,Art,Pass,Online,22,19
+93,Anjali,Female,15,UG,Teacher,432458,96.64,59.98,1.5,6.4,High,53.05,Yes,Yes,3.2,Average,3,Art,Pass,Offline,52,53
+94,Nikita,Female,17,PG,Scientist,440923,96.09,94.74,3.5,6.2,High,51.52,No,No,2,Good,4,Dance,Pass,Offline,52,53
+95,Priya,Female,17,High School,Tailor,426324,57.9,51.46,5.4,7.8,Low,74.17,Yes,Yes,1.4,Average,2,None,Pass,Offline,75,75
+96,Shreya,Female,17,High School,Shopkeeper,162759,96.16,98.27,5.8,7.2,High,81.87,No,No,2.8,Poor,5,Sports,Pass,Offline,56,52
+97,Rajat,Male,14,High School,Farmer,407038,55.96,43.76,2.9,8.6,Medium,98.03,Yes,Yes,2.7,Excellent,5,None,Pass,Online,33,28
+98,Rohan,Male,18,UG,Clerk,112130,65.88,95.89,5.3,7.5,Low,69.61,No,Yes,1.3,Excellent,5,Music,Pass,Offline,52,51
+99,Manish,Male,15,High School,Security Guard,435152,50.14,89.47,1.1,8.7,Low,58.28,Yes,Yes,0.8,Good,1,Music,Pass,Online,48,49
+100,Vivaan,Male,15,UG,Salesperson,492110,74.11,71.63,4.5,8,High,58.97,Yes,Yes,2.8,Poor,4,Art,Pass,Online,52,53
+101,Vivaan,Male,16,PG,Engineer,69120,83.72,55.29,5.4,6.5,High,62.6,Yes,Yes,2.3,Poor,3,Music,Pass,Online,52,53
+102,Isha,Female,16,UG,Salesperson,336505,77.92,50.31,3.9,5.4,High,54.66,Yes,No,2.6,Poor,2,Art,Pass,Offline,52,53
+103,Anjali,Female,18,UG,Technician,294506,56.44,72.77,2,5.4,Low,63.41,No,No,1.6,Average,4,Dance,Pass,Offline,52,53
+104,Sneha,Female,16,UG,Technician,378383,59.69,84.01,2.8,6,Medium,87.62,Yes,No,1,Good,2,None,Pass,Offline,52,53
+105,Isha,Female,14,High School,Security Guard,107194,85.58,92.41,5.3,7.1,Medium,79.78,No,Yes,1.5,Average,5,None,Pass,Offline,52,50
+106,Aanya,Female,14,PG,Manager,253210,89.73,75.05,5.9,8.6,Low,80.75,No,No,0.5,Good,1,Sports,Pass,Offline,52,53
+107,Aditya,Male,17,UG,Salesperson,468556,87.29,71.6,2,8.4,High,93.55,Yes,Yes,3.3,Excellent,3,Music,Pass,Offline,52,53
+108,Rahul,Male,18,PG,Doctor,229193,50.46,74.37,5.4,7.7,High,57.02,Yes,No,0,Excellent,2,None,Pass,Offline,52,53
+109,Simran,Female,14,UG,Technician,357466,72.48,42.98,5,5.5,Medium,95.06,Yes,No,1.8,Poor,4,Art,Pass,Online,52,53
+110,Priya,Female,14,High School,Driver,405089,51.99,80.81,2.7,5.7,High,59.56,Yes,No,3,Good,3,None,Pass,Online,46,46
+111,Priya,Female,14,UG,Technician,206450,68.52,66.01,5.6,6.5,Medium,59.37,Yes,Yes,0.8,Excellent,4,None,Pass,Offline,52,53
+112,Aarav,Male,15,High School,Farmer,475409,73.35,74.08,2.3,8.4,High,54.75,No,No,3.5,Poor,5,Sports,Pass,Online,28,24
+113,Tanya,Female,18,PG,Professor,106026,56.63,92.27,4,5.7,Low,63.07,No,No,1.1,Excellent,5,Art,Pass,Online,52,50
+114,Siddharth,Male,16,UG,Technician,476981,69.85,80.88,5.3,5.3,High,95.8,Yes,No,0.1,Average,1,None,Pass,Online,52,53
+115,Sneha,Female,15,PG,Professor,228799,86.43,82.68,3.8,7.3,Low,92.15,No,No,0.4,Good,1,Music,Pass,Offline,52,53
+116,Pooja,Female,17,UG,Accountant,302990,63.15,78.39,1.3,5.3,High,57.37,Yes,No,2.5,Average,4,Art,Pass,Online,52,53
+117,Aanya,Female,14,PG,Scientist,348155,76.3,95.43,1.3,7.2,Low,59.65,No,Yes,3,Poor,5,Sports,Pass,Offline,52,48
+118,Krishna,Male,15,High School,Driver,465480,54.8,94.75,5.6,7.1,Low,68.49,Yes,No,2.1,Poor,1,Art,Pass,Offline,84,89
+119,Nikita,Female,15,High School,Tailor,191937,95.36,61.65,1.4,8.6,High,67.23,Yes,No,2.9,Excellent,5,None,Pass,Offline,21,19
+120,Abhishek,Male,15,High School,Driver,284948,73.22,64.51,1.7,6.5,High,56.8,No,No,2.6,Average,5,Sports,Pass,Online,23,22
+121,Kavya,Female,14,UG,Teacher,143507,51.94,84.05,5.3,6.6,Low,85.71,Yes,No,1.9,Average,1,Art,Pass,Offline,52,53
+122,Rohan,Male,18,High School,Farmer,239033,51.15,52.75,5.4,6.1,Low,69.53,Yes,Yes,3.1,Average,4,Art,Pass,Online,60,60
+123,Rohan,Male,18,PG,Engineer,122687,71.44,67.84,1.5,8,High,57.13,Yes,Yes,0.2,Average,2,None,Pass,Offline,52,53
+124,Priya,Female,15,PG,Scientist,364081,55.77,77.47,3.8,7.1,Low,97.88,Yes,No,2.3,Good,1,None,Pass,Online,52,53
+125,Aditya,Male,14,UG,Technician,238242,72.7,70.78,5.5,5.4,High,83.26,Yes,Yes,1.5,Average,2,Dance,Pass,Offline,52,53
+126,Rahul,Male,18,High School,Tailor,260826,63.84,78.56,3.5,6.6,High,60.57,No,No,1.4,Good,5,Art,Pass,Offline,38,33
+127,Yash,Male,15,High School,Tailor,121461,79.63,60.84,2.1,7,High,87.86,No,Yes,2,Good,3,Dance,Pass,Online,41,41
+128,Krishna,Male,17,PG,Professor,464950,95.56,42.7,1.1,7.6,Low,70.27,Yes,No,1.8,Excellent,3,Sports,Pass,Online,52,53
+129,Krishna,Male,15,UG,Accountant,420467,74.97,96.92,4.2,5.1,Medium,85.83,Yes,Yes,3.4,Average,1,Dance,Pass,Offline,52,53
+130,Simran,Female,16,UG,Salesperson,185760,76.36,60.1,2.9,6.3,High,65.77,Yes,Yes,2.2,Average,3,Dance,Pass,Online,52,53
+131,Pooja,Female,17,UG,Technician,141894,78.37,81.26,1.2,7.1,Low,98.13,No,No,2.6,Good,3,Dance,Pass,Offline,52,53
+132,Pranav,Male,16,High School,Driver,153786,55.02,64.27,4.7,8.1,Medium,66.79,No,No,2,Average,2,Art,Pass,Online,70,70
+133,Amit,Male,17,UG,Salesperson,477408,71.35,60.69,3.9,7.5,Low,96.49,No,No,3.2,Average,2,None,Pass,Online,52,53
+134,Priya,Female,14,PG,Scientist,482393,80.79,77.73,4.1,5.4,High,99.56,No,Yes,0.4,Good,3,Dance,Pass,Offline,52,53
+135,Amit,Male,14,UG,Teacher,374764,64.22,54.79,1.3,5.4,Medium,65.5,Yes,No,2.1,Good,2,Dance,Pass,Offline,52,53
+136,Vikram,Male,17,High School,Shopkeeper,465577,69.64,71.38,2.8,8.4,High,54.87,Yes,No,3.4,Average,4,None,Pass,Online,39,47
+137,Rahul,Male,17,PG,Manager,292727,69.86,76.71,3.3,8.9,Medium,60.15,Yes,Yes,2.1,Poor,4,Music,Pass,Online,52,53
+138,Tanya,Female,17,PG,Scientist,202172,93.63,66.03,2.6,8.6,Low,94.64,Yes,Yes,3.1,Average,2,Music,Pass,Online,52,53
+139,Vikram,Male,16,UG,Teacher,188808,83.78,92.04,4.9,7.9,Low,89.03,Yes,Yes,1.7,Average,5,None,Pass,Offline,52,51
+140,Sakshi,Female,17,PG,Doctor,345800,98.03,74.78,4.6,7.9,Medium,85.49,No,Yes,2.3,Poor,3,Dance,Pass,Offline,52,53
+141,Meera,Female,17,High School,Tailor,114575,76.29,72.08,5.2,5.6,Medium,94.28,No,No,1.9,Poor,2,None,Pass,Online,74,75
+142,Sneha,Female,17,UG,Clerk,269059,59.55,61.33,5.2,8.3,Medium,61.52,No,No,2.4,Average,1,Sports,Pass,Offline,52,53
+143,Krishna,Male,18,PG,Manager,132152,71.74,63.01,3.8,8,Medium,68.79,Yes,Yes,3.8,Good,5,Dance,Pass,Online,52,51
+144,Rajat,Male,16,High School,Shopkeeper,112226,93.21,41.8,1.1,6.4,High,67.02,Yes,Yes,0.4,Good,4,Dance,Pass,Offline,26,27
+145,Neha,Female,14,UG,Teacher,378531,61.35,55.89,2,5.4,Low,66.97,Yes,Yes,2,Poor,4,Dance,Pass,Offline,52,53
+146,Abhishek,Male,16,PG,Manager,207436,98.59,83.04,5.8,8,High,97.13,Yes,Yes,1.8,Average,5,Music,Pass,Online,52,49
+147,Anjali,Female,15,High School,Farmer,158186,58.08,80.46,2,5.5,High,84.61,No,No,3.8,Poor,4,Sports,Pass,Online,33,27
+148,Isha,Female,14,High School,Farmer,313340,65.03,52.78,5.7,8.9,Low,56.7,Yes,Yes,1.6,Average,2,Sports,Pass,Online,78,71
+149,Nikita,Female,15,PG,Professor,138514,91.27,91.41,2.8,5.1,Medium,97.69,Yes,No,3.5,Good,1,None,Pass,Online,52,53
+150,Kunal,Male,16,PG,Engineer,378677,53.89,63.17,3.6,8.9,Low,83.65,Yes,No,1.9,Poor,2,None,Pass,Online,52,53
+151,Bhavna,Female,15,High School,Farmer,353522,79.45,77.63,4.6,7.2,Medium,84.98,No,No,1.6,Excellent,5,Dance,Pass,Offline,46,41
+152,Krishna,Male,15,UG,Technician,499954,91.31,47.75,3.3,6.5,Medium,50.11,No,Yes,3.2,Excellent,2,Art,Pass,Offline,52,53
+153,Aryan,Male,17,PG,Professor,495020,77.98,56.23,4.6,6,Medium,87.55,Yes,No,0,Good,2,Sports,Pass,Online,52,53
+154,Krishna,Male,17,High School,Shopkeeper,95009,56.47,87.78,5.9,8.4,Low,76.98,No,No,2.8,Excellent,5,None,Pass,Online,57,53
+155,Siddharth,Male,17,PG,Doctor,387754,89.97,85.59,2.7,5.9,High,82.51,Yes,No,2.4,Excellent,2,Sports,Pass,Offline,52,53
+156,Kunal,Male,17,High School,Driver,449401,95.31,65.92,5.5,8.9,Low,99.1,Yes,No,2,Average,1,None,Pass,Online,84,85
+157,Krishna,Male,18,PG,Doctor,221080,91.63,60.95,5.1,8.6,Medium,76.63,No,No,3.3,Good,1,Art,Pass,Online,52,53
+158,Nikita,Female,16,UG,Salesperson,61336,76.11,44.97,5.8,5.9,Medium,71.56,No,No,0.5,Excellent,1,Sports,Pass,Online,52,53
+159,Tanya,Female,16,PG,Professor,218912,61.05,58.39,5.4,5.3,High,67.54,No,No,3.9,Excellent,2,Art,Pass,Offline,52,53
+160,Aditya,Male,17,UG,Technician,74750,90.57,75.72,2,6.8,Medium,77.44,No,No,3.4,Excellent,5,Art,Pass,Offline,52,51
+161,Rohan,Male,18,UG,Teacher,496895,74.45,68.21,1.2,5.6,High,67.85,Yes,Yes,3.3,Excellent,3,None,Pass,Online,52,53
+162,Swati,Female,14,High School,Tailor,311707,82.56,47.08,5.5,6.7,Low,50.77,Yes,Yes,0.4,Excellent,1,None,Pass,Offline,84,87
+163,Aditya,Male,16,High School,Security Guard,397257,56.98,88.65,2.5,8.5,High,97.02,Yes,Yes,3.3,Average,3,Dance,Pass,Online,44,44
+164,Vivaan,Male,14,UG,Clerk,344419,88.9,44.3,2.1,8.5,High,82.04,Yes,Yes,3.2,Good,2,None,Pass,Online,52,53
+165,Harsh,Male,18,UG,Accountant,280668,68.59,55.42,4.2,5.2,Low,76.32,Yes,Yes,2.4,Poor,3,None,Pass,Offline,52,53
+166,Isha,Female,18,PG,Professor,97273,77.5,77.09,5.6,8.9,High,78.1,No,No,0.2,Good,5,None,Pass,Offline,52,48
+167,Bhavna,Female,15,UG,Salesperson,374433,61.12,76.72,1.7,7.9,Medium,88.64,No,No,2.4,Excellent,5,Art,Pass,Online,52,47
+168,Amit,Male,15,High School,Security Guard,383778,72.72,71.88,3.9,5.6,Low,56.5,No,No,0.6,Excellent,5,Dance,Pass,Online,41,39
+169,Yash,Male,14,PG,Professor,318908,70.46,63.35,5.5,8.1,High,94.52,No,Yes,2.8,Good,5,Dance,Pass,Online,52,50
+170,Pooja,Female,18,PG,Professor,472222,81.96,94.6,1.4,6.4,Medium,74.84,Yes,Yes,3.8,Good,3,None,Pass,Offline,52,53
+171,Tanya,Female,17,UG,Accountant,192696,95.87,73.88,2.3,6,Medium,82.02,Yes,No,3.9,Average,1,Music,Pass,Offline,52,53
+172,Rohan,Male,14,PG,Scientist,392774,53.15,86.33,4.8,5.6,High,75.67,No,Yes,2.6,Poor,1,Music,Pass,Offline,52,53
+173,Yash,Male,15,High School,Driver,285583,72.29,72.61,1.7,8.5,Medium,78.53,No,No,2.5,Good,4,Music,Pass,Offline,31,30
+174,Aniket,Male,15,UG,Technician,381026,50.47,97.71,3.5,8.4,Low,51.9,Yes,Yes,3.7,Good,4,Music,Pass,Offline,52,53
+175,Krishna,Male,15,PG,Doctor,241853,62.81,78.71,3.2,8.5,High,75.73,Yes,Yes,3.5,Excellent,5,Music,Pass,Offline,52,49
+176,Aanya,Female,14,UG,Salesperson,301317,53.88,87.24,4.9,8.4,High,96.75,No,No,2.2,Excellent,4,Art,Pass,Offline,52,53
+177,Krishna,Male,14,High School,Driver,451718,59.59,99.93,5.4,8.4,High,63.37,No,No,1.5,Poor,3,Sports,Pass,Online,68,68
+178,Manish,Male,17,UG,Salesperson,77709,63.57,68.98,1.9,8,High,80.01,No,No,0.5,Poor,2,Art,Pass,Offline,52,53
+179,Bhavna,Female,15,PG,Doctor,496580,78.28,49.28,2,6.9,Medium,79.98,No,Yes,0.4,Average,2,Sports,Pass,Offline,52,53
+180,Aryan,Male,16,UG,Salesperson,92156,69.27,74.24,5.6,5.9,Medium,81.65,Yes,Yes,2.5,Average,1,None,Pass,Online,52,53
+181,Diya,Female,16,PG,Doctor,130339,57.45,42.78,5.2,5.9,Low,82.47,Yes,Yes,3.4,Good,1,Sports,Pass,Online,52,53
+182,Rajat,Male,16,High School,Shopkeeper,92332,60.57,71.97,3.9,5.5,High,63.22,No,Yes,2.1,Average,2,Art,Pass,Offline,63,59
+183,Priya,Female,18,High School,Tailor,82496,69.56,40.99,1.5,6.2,Medium,97.58,Yes,No,0.1,Excellent,1,Music,Pass,Online,52,56
+184,Swati,Female,14,UG,Accountant,329310,74.2,56.3,4.1,6.2,Medium,81.98,No,No,0.4,Average,4,Art,Pass,Online,52,53
+185,Sneha,Female,16,High School,Security Guard,69118,67.83,79.06,3.4,6.9,High,53.23,No,Yes,2.3,Good,3,Art,Pass,Offline,52,51
+186,Amit,Male,16,UG,Teacher,359556,90.7,43.18,3.5,8.6,Low,99.51,Yes,No,3.6,Good,4,Sports,Pass,Online,52,53
+187,Manish,Male,18,PG,Manager,154262,96.38,85.44,4,6.5,Low,93.63,Yes,No,1.1,Poor,2,Dance,Pass,Offline,52,53
+188,Siddharth,Male,16,UG,Technician,313398,98.76,67.89,5.3,5.1,Medium,60,No,Yes,1.4,Excellent,2,Art,Pass,Online,52,53
+189,Tanya,Female,15,High School,Farmer,369668,51.1,93.9,3.8,7.2,Low,64.44,Yes,No,4,Good,2,None,Pass,Offline,62,58
+190,Nikhil,Male,14,High School,Driver,176655,69.92,86.96,5.6,5.6,Medium,95.63,No,No,1.6,Poor,4,None,Pass,Offline,62,54
+191,Sakshi,Female,14,PG,Doctor,337538,81.08,45.27,4.1,6,Medium,92.39,Yes,No,3,Good,2,Art,Pass,Online,52,53
+192,Trisha,Female,14,UG,Accountant,434199,72.02,72.45,2.6,7.1,High,91.1,Yes,No,0.9,Good,5,Sports,Pass,Online,52,47
+193,Kavya,Female,17,UG,Clerk,147341,99.29,91.52,5.3,5.5,Low,67.46,Yes,No,0,Excellent,1,None,Pass,Offline,52,53
+194,Vivaan,Male,18,High School,Shopkeeper,177880,60.82,98.62,2,8.7,Medium,58.66,No,Yes,1.4,Excellent,2,Art,Pass,Online,48,42
+195,Raj,Male,18,UG,Accountant,217174,63.1,71.18,4.5,8.8,High,63.51,No,No,2.4,Good,1,Music,Pass,Online,52,53
+196,Pranav,Male,14,UG,Teacher,383278,67.95,62.6,5.1,8.1,Low,60.08,No,No,1.3,Average,4,Art,Pass,Online,52,53
+197,Diya,Female,14,High School,Shopkeeper,469556,95.16,98.56,4.6,7.4,Medium,66.93,Yes,No,3.6,Average,5,Sports,Pass,Online,46,42
+198,Siddharth,Male,16,PG,Scientist,354853,53.28,42.32,4.7,8.1,High,61.59,Yes,No,1.6,Average,4,Art,Pass,Online,52,53
+199,Swati,Female,16,PG,Engineer,365978,79.35,99.09,3.7,5.5,High,75.18,Yes,No,2.2,Excellent,5,None,Pass,Online,52,48
+200,Rajat,Male,16,High School,Farmer,99537,62.38,61.72,4,6.3,Low,78.38,Yes,No,0.8,Average,5,Art,Pass,Offline,42,36
+201,Trisha,Female,16,PG,Scientist,439940,79.85,48.96,4.8,7.1,Low,93.69,No,No,3.3,Excellent,5,Sports,Pass,Offline,52,50
+202,Pranav,Male,14,PG,Doctor,302638,85.13,90.66,3.1,6.2,Low,67.37,No,Yes,3.5,Average,4,Art,Pass,Online,52,53
+203,Trisha,Female,15,PG,Engineer,136129,85.43,51.37,5.5,7.9,High,55.16,No,Yes,4,Poor,1,Dance,Pass,Online,52,53
+204,Nikita,Female,15,PG,Scientist,457050,80.88,72.11,1.7,5.2,Low,85.19,Yes,Yes,0.1,Average,2,Dance,Pass,Offline,52,53
+205,Pranav,Male,16,PG,Professor,198955,99.08,45.61,2.2,6,Low,75.93,No,No,2.6,Poor,5,Sports,Pass,Offline,52,49
+206,Sneha,Female,14,High School,Shopkeeper,301485,89.42,79.24,5.8,6.2,High,64.78,No,No,1.3,Poor,3,Music,Pass,Online,71,66
+207,Amit,Male,18,PG,Doctor,223531,62.96,91.78,2.4,5.3,Low,79.18,No,No,3.7,Excellent,3,Sports,Pass,Offline,52,53
+208,Riya,Female,14,UG,Salesperson,478693,83.33,60.76,3,7.5,High,57.7,Yes,Yes,1.9,Good,1,Music,Pass,Offline,52,53
+209,Aryan,Male,18,UG,Salesperson,490398,78.36,94.38,3.5,7.2,Medium,82.53,Yes,Yes,1.8,Average,5,None,Pass,Offline,52,51
+210,Rahul,Male,15,UG,Clerk,175128,66.6,58.97,3.7,6.9,High,58.72,Yes,Yes,1.7,Average,5,Art,Pass,Offline,52,51
+211,Sakshi,Female,16,High School,Security Guard,57353,85.57,77.67,5.8,7.6,Low,59.73,No,Yes,2.1,Average,4,None,Pass,Online,63,66
+212,Komal,Female,14,High School,Driver,154598,59.26,88.65,4.5,8,Low,75.32,No,No,1.7,Excellent,3,Sports,Pass,Online,61,66
+213,Sakshi,Female,15,PG,Scientist,114742,70.55,90.46,4.6,6.6,High,89.1,Yes,No,2.3,Average,1,Dance,Pass,Offline,52,53
+214,Bhavna,Female,17,High School,Security Guard,206978,63.24,98.01,2.6,6.2,High,76.98,No,No,2.6,Poor,5,Sports,Pass,Offline,30,26
+215,Nikita,Female,16,High School,Security Guard,392792,91.06,71.01,5,7.4,Medium,95.86,No,Yes,0.9,Poor,1,Art,Pass,Offline,80,83
+216,Pooja,Female,16,UG,Accountant,438132,79.64,90.54,5.7,7.2,Low,72.73,Yes,Yes,3.6,Good,4,None,Pass,Offline,52,53
+217,Kunal,Male,14,High School,Shopkeeper,485388,77.77,79.15,1.5,6.9,Low,81.4,Yes,No,1.4,Good,5,Dance,Pass,Offline,22,18
+218,Bhavna,Female,17,PG,Engineer,50866,84.9,59.75,5.8,5,Medium,89.09,Yes,No,2.7,Excellent,5,Music,Pass,Online,52,51
+219,Nikita,Female,18,UG,Accountant,102632,64.67,71.55,3.9,8.4,High,100,No,No,2.2,Average,5,Sports,Pass,Offline,52,49
+220,Harsh,Male,18,PG,Manager,289655,56.93,47.43,1.5,6.8,High,97.31,No,No,1.1,Excellent,1,Dance,Pass,Offline,52,53
+221,Vivaan,Male,14,PG,Manager,242465,51.87,44.85,2,5.7,Low,75.49,No,Yes,1.3,Excellent,1,Music,Pass,Online,52,53
+222,Aanya,Female,18,PG,Professor,236639,50.96,54.14,1.4,5.3,Medium,71.21,No,No,2.7,Good,2,Art,Pass,Online,52,53
+223,Meera,Female,18,PG,Doctor,416045,55.15,90.62,2,5.3,Medium,81.37,No,No,1.1,Poor,2,Dance,Pass,Online,52,53
+224,Aditya,Male,18,PG,Doctor,286091,58.43,83.98,3.8,6.9,High,66.87,No,No,0.1,Average,2,Art,Pass,Offline,52,53
+225,Aarav,Male,15,High School,Farmer,257917,72.39,78.79,5,8.8,Low,96.43,Yes,No,1.4,Excellent,5,Dance,Pass,Online,50,47
+226,Aanya,Female,18,PG,Manager,353608,71.97,95.94,1,8,Low,57.38,Yes,Yes,3.1,Average,1,Sports,Pass,Online,52,53
+227,Sneha,Female,14,High School,Security Guard,242883,65.45,43.35,3,7,High,50.65,No,Yes,3,Poor,1,None,Pass,Online,64,65
+228,Shreya,Female,15,UG,Salesperson,73459,73.45,83.94,4.9,6.5,High,83.57,Yes,No,0.9,Excellent,5,Dance,Pass,Offline,52,50
+229,Isha,Female,18,UG,Salesperson,365742,90.55,42.51,5.6,8.9,High,74.98,Yes,No,1.6,Excellent,4,Sports,Pass,Offline,52,53
+230,Priya,Female,18,High School,Farmer,149564,86.18,52.76,3.6,7.8,Low,94.58,No,No,2.8,Poor,2,None,Pass,Offline,61,61
+231,Vikram,Male,15,High School,Shopkeeper,69624,70.38,56.98,3.9,7.9,Low,79.44,Yes,Yes,1.3,Good,5,Dance,Pass,Online,41,38
+232,Priya,Female,18,PG,Professor,426166,85.6,98.29,3.2,8.9,Low,89.07,No,No,1.4,Excellent,3,Dance,Pass,Offline,52,53
+233,Diya,Female,14,High School,Shopkeeper,322741,71.4,97.36,3.4,7.3,High,96.48,Yes,Yes,1.2,Average,1,None,Pass,Online,67,69
+234,Kunal,Male,14,UG,Accountant,149091,57.73,64.87,5.3,5.6,Medium,59.9,Yes,No,3.1,Poor,5,Music,Pass,Online,52,50
+235,Neha,Female,18,High School,Tailor,390507,78.43,65.26,1.7,8,Medium,72.67,No,No,0.4,Average,3,Art,Pass,Offline,38,49
+236,Vikram,Male,17,High School,Driver,293156,64.4,78.74,4.9,7.4,High,58.91,No,Yes,1.6,Excellent,4,Art,Pass,Offline,56,59
+237,Amit,Male,17,PG,Engineer,372205,58.9,55.46,5.4,5.2,Low,87.51,No,No,2.6,Poor,5,Music,Pass,Online,52,49
+238,Simran,Female,15,PG,Doctor,393665,80.99,73.96,4.9,7.3,Low,50.15,No,Yes,2.3,Average,3,Art,Pass,Online,52,53
+239,Raj,Male,15,UG,Teacher,193403,53.93,97.88,4.4,7.2,High,87.41,Yes,Yes,3.3,Poor,5,Dance,Pass,Online,52,48
+240,Neha,Female,15,High School,Tailor,186071,56.06,66.09,3.2,8,High,83.72,No,No,2.5,Good,5,Music,Pass,Offline,35,34
+241,Diya,Female,17,PG,Engineer,164340,81.43,87.59,5.7,5.7,Medium,63.6,No,Yes,2.6,Poor,3,None,Pass,Offline,52,53
+242,Aditya,Male,14,UG,Teacher,271640,58.53,78.21,5.4,7.9,Low,74.02,Yes,No,0.3,Excellent,1,Dance,Pass,Online,52,53
+243,Sakshi,Female,18,PG,Professor,269105,91.16,96.97,3.5,7.5,Low,69.18,No,No,3.3,Poor,5,Art,Pass,Offline,52,48
+244,Krishna,Male,16,UG,Clerk,446720,91.55,68.89,5.3,5.1,Medium,84.15,Yes,No,3.3,Poor,3,Music,Pass,Offline,52,53
+245,Rajat,Male,14,UG,Salesperson,313148,97.69,41.6,5,5.5,High,99.37,No,No,3.1,Good,4,Sports,Pass,Offline,52,53
+246,Shreya,Female,14,High School,Shopkeeper,184759,89.92,94.72,5.4,5.4,High,71.72,No,Yes,0.6,Average,5,Sports,Pass,Offline,53,52
+247,Komal,Female,18,High School,Security Guard,450814,81.35,75.23,2,8.3,High,99.41,No,No,3.2,Excellent,4,None,Pass,Offline,33,31
+248,Manish,Male,18,PG,Doctor,388804,55.97,49.73,5.2,6.2,Medium,59.78,No,No,2.2,Poor,2,Art,Pass,Online,52,53
+249,Simran,Female,15,PG,Manager,116503,89.04,41.83,1.6,8.7,High,98.51,No,Yes,0.6,Excellent,2,Art,Pass,Online,52,53
+250,Aarav,Male,16,High School,Security Guard,116451,88.83,66.05,5,8.1,High,78.7,Yes,Yes,3.9,Excellent,5,Music,Pass,Offline,50,48
+251,Diya,Female,17,High School,Farmer,451312,63.58,69.21,1.4,6.3,High,78.02,Yes,No,1.6,Excellent,1,Sports,Pass,Online,51,53
+252,Isha,Female,14,PG,Doctor,464950,92.41,68.32,1.7,6,High,92.73,Yes,No,3.9,Excellent,4,Dance,Pass,Offline,52,53
+253,Trisha,Female,17,PG,Professor,320242,63.98,67.46,4.1,5.1,High,56.48,No,No,2.3,Good,4,None,Pass,Offline,52,53
+254,Sakshi,Female,16,High School,Farmer,91747,58.41,61.7,4.2,5.9,Medium,82.06,Yes,No,3.5,Excellent,2,Dance,Pass,Offline,66,71
+255,Pooja,Female,17,UG,Technician,498379,55.85,75.11,2,5.9,High,50.92,Yes,Yes,1.4,Average,4,Music,Pass,Offline,52,53
+256,Manish,Male,16,High School,Security Guard,288125,97.6,86.05,5.8,5.7,High,52.34,Yes,Yes,1.6,Average,4,Art,Pass,Online,63,61
+257,Sakshi,Female,17,PG,Manager,416756,74.62,77.62,6,6.5,High,84.19,Yes,Yes,1.6,Poor,4,Sports,Pass,Online,52,53
+258,Bhavna,Female,18,High School,Security Guard,189296,87.98,80.9,4.6,8.4,Medium,87.19,No,Yes,2.1,Poor,4,Dance,Pass,Offline,54,50
+259,Sakshi,Female,18,PG,Manager,405416,51.58,57.33,1,5.1,High,72.27,Yes,Yes,0.6,Good,1,None,Pass,Offline,52,53
+260,Aarav,Male,15,UG,Teacher,334130,82.96,53.91,5.1,8.2,High,63.34,Yes,Yes,1.1,Average,2,Art,Pass,Offline,52,53
+261,Amit,Male,14,UG,Accountant,207496,52.04,94.39,4,5.5,High,52.8,Yes,Yes,0,Good,3,Dance,Pass,Offline,52,53
+262,Shreya,Female,16,UG,Technician,127003,66.72,98.47,5.6,8.2,Low,56.59,Yes,No,0.6,Poor,4,Sports,Pass,Offline,52,53
+263,Pranav,Male,14,High School,Security Guard,349179,51.88,92.96,2.6,5.6,Low,82.37,No,Yes,2.4,Poor,2,Dance,Pass,Online,53,37
+264,Aanya,Female,17,PG,Scientist,436560,50.91,71.83,5.2,5.9,High,67.68,Yes,Yes,0.1,Excellent,2,Dance,Pass,Offline,52,53
+265,Priya,Female,14,High School,Driver,296582,77.68,52.19,1.9,6,Low,73.29,No,Yes,1.4,Average,3,Dance,Pass,Online,40,38
+266,Trisha,Female,18,PG,Manager,310178,53.93,99.16,1.2,6.4,Medium,72.26,Yes,Yes,3.1,Good,2,None,Pass,Offline,52,53
+267,Bhavna,Female,16,High School,Driver,347723,90.31,44.47,1,8.6,Low,88.33,No,Yes,3.9,Good,1,Art,Pass,Online,48,56
+268,Aanya,Female,17,High School,Driver,179321,85.04,58.5,1.3,6.6,Low,58.84,No,Yes,0.5,Average,1,Art,Pass,Offline,50,55
+269,Riya,Female,18,UG,Teacher,448646,76.31,81.03,1.6,8.6,Low,56.02,Yes,Yes,2.9,Excellent,3,None,Pass,Online,52,53
+270,Simran,Female,14,UG,Technician,358544,87.58,42.38,1.7,7.7,Low,60.76,Yes,No,0.8,Good,4,Dance,Pass,Offline,52,53
+271,Siddharth,Male,17,High School,Driver,259134,71.94,93.89,5.8,8.2,Medium,68.37,No,No,1.2,Good,4,Sports,Pass,Online,63,71
+272,Aditya,Male,14,High School,Shopkeeper,332360,87.13,47.88,1.8,6.6,High,61.09,No,No,1.4,Excellent,2,None,Pass,Offline,46,46
+273,Pranav,Male,18,High School,Security Guard,59567,61.88,82.62,1.6,9,Medium,95.47,No,Yes,3.9,Excellent,4,Music,Pass,Offline,30,36
+274,Vivaan,Male,18,High School,Security Guard,240212,80.23,72.89,2.5,7.5,Low,91.46,Yes,Yes,1.5,Excellent,1,Dance,Pass,Online,60,65
+275,Vivaan,Male,14,UG,Clerk,458289,51.12,74.08,2.4,8.9,Medium,82.44,Yes,No,1.6,Poor,1,Sports,Pass,Online,52,53
+276,Manish,Male,18,PG,Engineer,192480,88.06,66,4.4,5.7,High,56.3,Yes,No,2.9,Good,3,Music,Pass,Offline,52,53
+277,Aditya,Male,18,PG,Doctor,132527,96.47,61.43,1.1,7,Medium,69.66,Yes,No,2.3,Poor,5,Dance,Pass,Online,52,51
+278,Komal,Female,17,PG,Doctor,214188,56.81,66.98,1.5,8.6,High,52.48,No,Yes,1,Poor,5,Art,Pass,Online,52,47
+279,Komal,Female,17,UG,Salesperson,444231,92.32,61.08,1.2,8.7,High,79.37,Yes,No,0.8,Poor,1,Music,Pass,Offline,52,53
+280,Priya,Female,14,High School,Security Guard,236172,72.95,83.29,3,8.6,Low,59.01,Yes,Yes,2.7,Average,2,Music,Pass,Offline,56,56
+281,Manish,Male,17,High School,Shopkeeper,266436,75.62,56.78,3.7,6.9,Medium,80.4,Yes,No,1.7,Average,3,Sports,Pass,Online,54,54
+282,Kunal,Male,16,PG,Engineer,456139,94.63,72.62,2.8,8.5,Medium,65.87,Yes,Yes,1.2,Good,5,Music,Pass,Online,52,48
+283,Amit,Male,16,High School,Shopkeeper,487455,61,96.22,4,6.9,Low,50.11,Yes,No,0.4,Excellent,5,Art,Pass,Online,42,41
+284,Tanya,Female,16,UG,Clerk,158585,83.16,46.74,5.2,6.3,Low,95.78,Yes,Yes,0.3,Poor,4,Music,Pass,Online,52,53
+285,Sneha,Female,15,UG,Technician,222812,94.45,86.78,4.8,5.9,Low,53.53,No,Yes,2.5,Average,1,None,Pass,Online,52,53
+286,Yash,Male,16,High School,Farmer,281367,62.84,52.04,1.8,8.5,Low,87.92,Yes,Yes,0.5,Good,5,None,Pass,Offline,24,14
+287,Swati,Female,16,High School,Tailor,154938,71.36,63.9,2.1,7.5,Low,77.95,No,Yes,0.8,Excellent,2,Art,Pass,Offline,49,48
+288,Pranav,Male,15,UG,Technician,180487,50.27,57.62,4.2,5.6,High,91.89,Yes,No,2.6,Poor,2,None,Pass,Online,52,53
+289,Aryan,Male,18,High School,Tailor,372809,95.43,71.85,5.2,6.3,High,83.71,No,No,3.8,Poor,5,Sports,Pass,Online,51,48
+290,Amit,Male,15,PG,Professor,352381,75.87,82.65,3.6,5.5,Low,75.84,Yes,Yes,3,Average,5,Dance,Pass,Offline,52,50
+291,Abhishek,Male,17,High School,Driver,143404,59.16,50.55,5.8,6,High,70.99,Yes,No,0.3,Good,2,Music,Pass,Offline,78,77
+292,Bhavna,Female,16,High School,Tailor,322218,63.33,54.77,2.1,6.9,Low,95.51,Yes,Yes,0.2,Average,1,Art,Pass,Online,56,59
+293,Swati,Female,14,PG,Manager,81187,96.14,94.7,3.1,7.4,Medium,77.15,Yes,Yes,3.2,Poor,3,Music,Pass,Offline,52,53
+294,Pooja,Female,14,High School,Shopkeeper,471068,80.63,74.87,2.8,5.1,Low,91.82,No,No,2.8,Average,1,Sports,Pass,Online,62,66
+295,Amit,Male,14,High School,Farmer,134750,74.51,94.62,3.6,6.6,Medium,86.26,Yes,No,0.5,Poor,1,None,Pass,Offline,68,70
+296,Krishna,Male,14,High School,Driver,347400,50.78,76.46,5.8,6.2,Medium,55.33,Yes,No,2.8,Average,5,Art,Pass,Online,56,52
+297,Siddharth,Male,18,UG,Accountant,391349,90.85,73.79,1.6,6.9,Medium,83.57,No,No,3.5,Average,2,Art,Pass,Offline,52,53
+298,Shreya,Female,16,UG,Accountant,99649,84.71,66.43,2.7,8.2,Low,56.98,Yes,No,2.3,Excellent,1,Art,Pass,Offline,52,53
+299,Isha,Female,14,High School,Driver,487328,84.5,99.28,1.1,8.4,High,53.41,Yes,No,4,Poor,3,None,Pass,Offline,33,37
+300,Kavya,Female,14,High School,Shopkeeper,313522,67.36,47.69,2.6,9,Medium,90.21,No,Yes,2.9,Good,1,None,Pass,Online,60,63
+301,Bhavna,Female,16,High School,Farmer,302234,97.49,90.31,5.4,7.5,High,76.49,No,Yes,2.5,Poor,4,Dance,Pass,Offline,60,60
+302,Siddharth,Male,16,PG,Scientist,260527,54.65,88.26,2.2,6.5,Low,78.91,No,No,0.1,Poor,5,Dance,Pass,Offline,52,49
+303,Shreya,Female,17,PG,Doctor,149373,72.32,97.71,3.2,5.6,High,87.91,No,Yes,0.6,Poor,3,None,Pass,Offline,52,53
+304,Rajat,Male,16,UG,Salesperson,370917,94.18,51.35,5.3,8.6,Medium,50.35,No,No,1.4,Average,3,None,Pass,Offline,52,53
+305,Aanya,Female,18,High School,Driver,464548,52.92,63.99,5.5,5.2,Low,54.19,Yes,Yes,3.7,Excellent,2,Art,Pass,Online,76,76
+306,Amit,Male,15,PG,Manager,271301,65.95,93.95,3.3,6.3,Low,81.13,No,Yes,3,Good,3,Music,Pass,Offline,52,53
+307,Kavya,Female,17,UG,Technician,319749,83.27,45.66,4.2,8.6,Medium,59.53,No,Yes,1.7,Average,4,Music,Pass,Offline,52,53
+308,Priya,Female,17,PG,Scientist,215145,99.7,90.84,3.4,7.8,High,57.11,Yes,No,0.6,Poor,5,None,Pass,Online,52,48
+309,Simran,Female,18,PG,Professor,466823,65.81,97.92,3.2,6.5,High,98.53,Yes,No,0.2,Excellent,4,Sports,Pass,Online,52,53
+310,Kavya,Female,18,High School,Tailor,472729,57.25,41.49,1.5,7,Medium,57.39,No,Yes,2.4,Excellent,2,Sports,Pass,Online,44,43
+311,Komal,Female,17,High School,Security Guard,117699,88.59,68.25,1.3,6.7,High,82.69,Yes,Yes,3.2,Good,3,Dance,Pass,Offline,35,35
+312,Trisha,Female,16,PG,Doctor,467685,87.79,79.76,1.5,7.8,High,97.5,Yes,No,2,Poor,2,Music,Pass,Offline,52,53
+313,Kunal,Male,18,PG,Engineer,308653,85.7,69.61,1.3,6.1,High,97.97,Yes,No,3.7,Average,4,Sports,Pass,Online,52,53
+314,Nikita,Female,14,High School,Farmer,469665,96.01,80.09,4.9,6.5,Medium,93.34,No,No,2.5,Good,5,Music,Pass,Online,49,48
+315,Priya,Female,18,UG,Teacher,101408,88.75,79.37,3.3,5.7,Low,67.67,No,No,2.5,Excellent,3,Music,Pass,Offline,52,53
+316,Trisha,Female,17,PG,Manager,89546,53.63,91.96,2.9,7.1,Low,55.34,Yes,No,2.8,Poor,3,Music,Pass,Online,52,53
+317,Pooja,Female,17,UG,Accountant,493531,54.61,54.13,4.1,7.9,Low,53.77,Yes,Yes,0.1,Good,4,Music,Pass,Offline,52,53
+318,Aryan,Male,16,High School,Driver,349682,52.13,81.08,2.6,7.1,Medium,90.03,Yes,Yes,0.5,Average,5,Music,Pass,Offline,30,29
+319,Abhishek,Male,17,UG,Teacher,219791,77.21,88.44,5.4,7.5,Low,78.26,No,Yes,3.3,Excellent,1,Dance,Pass,Offline,52,53
+320,Aarav,Male,17,UG,Salesperson,432682,72.92,46.32,3.2,6,Low,69.27,No,Yes,0.4,Average,5,Dance,Pass,Offline,52,47
+321,Nikhil,Male,16,UG,Technician,58531,60.06,72.85,5.1,6,High,96.14,No,Yes,0.2,Average,2,Dance,Pass,Online,52,53
+322,Anjali,Female,16,UG,Technician,450345,83.61,79.77,5.4,5.7,Low,55.9,Yes,Yes,1,Excellent,1,Sports,Pass,Offline,52,53
+323,Aryan,Male,15,High School,Tailor,80120,87.78,69.66,3.2,7.1,Medium,93.91,No,Yes,1.4,Poor,1,None,Pass,Online,65,66
+324,Komal,Female,16,PG,Scientist,222633,67.23,42.39,3.5,5.4,High,60.24,Yes,No,1.4,Good,5,None,Pass,Online,52,49
+325,Aanya,Female,15,High School,Security Guard,220518,79.45,98.47,4.1,8.3,Medium,82.8,Yes,Yes,3.4,Excellent,2,None,Pass,Offline,65,60
+326,Aryan,Male,17,High School,Security Guard,461333,88.24,83.32,2.3,8.6,Medium,63.56,No,Yes,0.4,Average,1,Music,Pass,Offline,58,62
+327,Simran,Female,18,High School,Security Guard,104873,71.3,75.87,4.7,8.9,High,60.54,No,Yes,1.7,Average,2,Art,Pass,Offline,70,75
+328,Vikram,Male,18,PG,Scientist,107711,54.31,79.33,2,6,Low,82.1,Yes,No,0.6,Poor,3,Music,Pass,Offline,52,53
+329,Priya,Female,18,High School,Driver,346729,57.02,43.24,5.7,5.5,Low,51.96,Yes,Yes,2.8,Good,4,Art,Pass,Online,63,63
+330,Nikita,Female,16,PG,Professor,191116,66.89,50.7,3.8,5.7,High,50.63,Yes,Yes,1.9,Poor,2,Sports,Pass,Offline,52,53
+331,Sakshi,Female,15,UG,Accountant,477626,77.34,79.31,5.9,8.6,Low,96.09,Yes,No,0.8,Excellent,4,Art,Pass,Online,52,53
+332,Vivaan,Male,14,PG,Manager,154104,65.39,57.28,2.9,7.6,Low,54.55,No,No,2,Poor,2,None,Pass,Online,52,53
+333,Rahul,Male,17,UG,Salesperson,133371,91.77,86.38,3.7,7.7,High,83.08,No,Yes,3.4,Poor,2,None,Pass,Online,52,53
+334,Isha,Female,17,High School,Shopkeeper,294677,59.22,42.01,5.4,5.5,High,57.48,No,No,1.1,Excellent,3,Art,Pass,Offline,68,64
+335,Rahul,Male,16,UG,Technician,211578,57.54,74.68,4.5,5.4,Medium,75.56,No,Yes,0.1,Good,1,None,Pass,Offline,52,53
+336,Aryan,Male,18,High School,Security Guard,223998,59.72,95.98,2.5,5.8,Low,71.95,Yes,No,2,Excellent,4,Music,Pass,Offline,37,36
+337,Meera,Female,14,PG,Professor,485020,91.05,89.26,5.7,7.5,Low,50.85,No,No,2,Average,3,Dance,Pass,Online,52,53
+338,Tanya,Female,15,PG,Scientist,171614,99.6,49.12,3.4,8.4,Low,51.06,No,Yes,0.5,Good,4,None,Pass,Online,52,53
+339,Neha,Female,17,UG,Salesperson,84062,86.73,87.36,4.9,6.3,Medium,62.7,Yes,No,0.6,Poor,3,None,Pass,Online,52,53
+340,Anjali,Female,16,UG,Teacher,226960,54.35,66.65,1.6,5.8,High,85.09,No,Yes,3.9,Excellent,2,Art,Pass,Online,52,53
+341,Harsh,Male,15,UG,Technician,169401,94.32,69.06,1.1,5.6,High,68.88,Yes,Yes,0.6,Good,4,Sports,Pass,Offline,52,53
+342,Rohan,Male,15,PG,Professor,392463,66.25,40.19,4.3,8.7,High,53.27,Yes,No,3.4,Poor,5,Sports,Pass,Offline,52,51
+343,Pranav,Male,14,High School,Driver,271857,88.72,67.77,2.5,5.5,Low,74.3,Yes,No,0.1,Excellent,1,Sports,Pass,Online,60,61
+344,Yash,Male,16,UG,Accountant,314282,78.22,76.61,4,5.7,Low,80.88,Yes,No,0.9,Excellent,5,Music,Pass,Offline,52,51
+345,Meera,Female,14,UG,Accountant,170939,66.39,52.55,2.1,5.2,Medium,51.18,Yes,Yes,2.5,Average,4,Dance,Pass,Offline,52,53
+346,Simran,Female,15,PG,Doctor,491051,50.44,98.14,5.9,6.7,Medium,72.38,No,Yes,0.2,Good,3,Sports,Pass,Online,52,53
+347,Sakshi,Female,17,High School,Security Guard,56749,62.79,59.81,4.1,7.1,Medium,68.54,No,Yes,1.9,Excellent,2,Music,Pass,Online,65,58
+348,Shreya,Female,14,PG,Manager,294804,98.19,83.62,2.2,5.5,High,83.21,Yes,No,0.9,Good,4,None,Pass,Online,52,53
+349,Nikhil,Male,17,PG,Engineer,109744,94.37,90.11,3.2,7.2,Medium,52.09,No,Yes,2.9,Average,1,Dance,Pass,Offline,52,53
+350,Sneha,Female,14,High School,Farmer,447696,64.76,40.55,1.9,6.1,Low,59.22,No,Yes,2.2,Average,3,Art,Pass,Online,40,39
+351,Harsh,Male,18,PG,Doctor,459150,64.86,58.23,3,8.3,Medium,58,Yes,No,2.6,Good,4,Music,Pass,Online,52,53
+352,Vikram,Male,15,High School,Farmer,387794,95.06,72.73,5.4,6.2,Low,82.59,No,No,1.5,Poor,4,Music,Pass,Online,60,68
+353,Sneha,Female,15,UG,Salesperson,180544,85.21,55.45,1.8,8.6,Low,54.33,Yes,Yes,1.1,Excellent,2,Music,Pass,Offline,52,53
+354,Meera,Female,16,High School,Security Guard,320660,59.66,84.82,3.2,8.7,Medium,59.56,Yes,No,3.7,Excellent,4,None,Pass,Offline,43,42
+355,Yash,Male,15,High School,Security Guard,320101,69.19,58.85,4.3,8.7,Medium,85.4,Yes,Yes,1.7,Average,5,Sports,Pass,Online,44,39
+356,Swati,Female,15,High School,Security Guard,104297,93.19,40.04,2.4,7.1,Low,53.71,Yes,Yes,3,Poor,1,Dance,Pass,Online,59,60
+357,Nikhil,Male,16,High School,Driver,134227,69.61,96.42,1.9,6,Medium,90.62,No,No,1.9,Poor,3,Sports,Pass,Offline,40,40
+358,Rajat,Male,14,High School,Security Guard,132479,88,47.16,5.8,8.1,Low,75.91,No,No,1.6,Good,3,Dance,Pass,Online,71,69
+359,Krishna,Male,18,High School,Tailor,406135,83.46,90.64,1,8.8,Low,91.17,Yes,Yes,3.9,Good,1,Art,Pass,Offline,48,49
+360,Isha,Female,17,UG,Teacher,133211,75.29,54.75,3.8,6.7,Medium,71.57,No,Yes,0.8,Average,3,Music,Pass,Offline,52,53
+361,Amit,Male,17,UG,Accountant,295395,94.02,40.49,3.3,7.7,High,97.61,No,Yes,3.8,Good,2,Music,Pass,Online,52,53
+362,Sneha,Female,16,High School,Security Guard,180559,88.3,99.53,5.7,8.2,Medium,56.97,Yes,Yes,1.4,Excellent,4,None,Pass,Online,63,70
+363,Swati,Female,18,PG,Professor,425581,68.88,70.24,1.2,5.7,Low,81.36,No,No,1.4,Excellent,2,Art,Pass,Online,52,53
+364,Swati,Female,14,High School,Shopkeeper,289688,86.3,77.07,4,7.1,Medium,85.53,Yes,No,3.3,Excellent,5,Music,Pass,Online,42,37
+365,Rajat,Male,15,High School,Security Guard,71922,70.84,92.61,1.5,7.3,Low,68.87,No,Yes,2.3,Poor,4,Music,Pass,Online,29,32
+366,Isha,Female,18,PG,Scientist,123333,82.5,84.82,1,6.1,Low,50.96,No,No,0.3,Excellent,3,None,Pass,Online,52,53
+367,Shreya,Female,14,PG,Scientist,197244,64.58,71.96,4.3,7.9,High,82.61,Yes,Yes,3.4,Poor,1,None,Pass,Online,52,53
+368,Kavya,Female,15,High School,Security Guard,460093,64.77,46.7,5,6.7,Low,90.43,Yes,No,2.9,Good,5,Art,Pass,Offline,50,45
+369,Sneha,Female,15,PG,Manager,326858,90.1,59.34,4.6,7.5,Medium,82.3,No,No,1.8,Average,3,Dance,Pass,Online,52,53
+370,Vivaan,Male,18,UG,Teacher,234052,61.43,69.52,4.7,7.2,High,68.81,No,No,0.1,Good,4,None,Pass,Online,52,53
+371,Bhavna,Female,14,PG,Engineer,92137,64.42,56.2,3.1,7.7,High,79.5,Yes,No,3.5,Poor,2,None,Pass,Offline,52,53
+372,Diya,Female,15,UG,Technician,238429,94,92.98,1,7.6,High,87.27,No,Yes,3.8,Average,2,Dance,Pass,Offline,52,53
+373,Pranav,Male,16,UG,Salesperson,201932,51.82,89.16,1.8,6.1,Medium,91.12,Yes,No,3.5,Average,5,None,Pass,Offline,52,47
+374,Simran,Female,15,PG,Engineer,208679,56.19,40.09,5,8.3,Medium,62.88,No,Yes,0.8,Good,3,Dance,Pass,Offline,52,53
+375,Priya,Female,18,PG,Manager,187252,93.97,62.91,1.6,8.4,Medium,65.24,Yes,Yes,2.9,Excellent,3,Art,Pass,Online,52,53
+376,Abhishek,Male,16,UG,Teacher,288327,80.69,86.21,5.9,6,High,62.54,Yes,No,3,Good,2,Sports,Pass,Online,52,53
+377,Tanya,Female,16,PG,Professor,141853,67.66,57.46,5.1,6.8,Medium,60.14,Yes,No,0.9,Poor,4,None,Pass,Offline,52,53
+378,Manish,Male,16,PG,Doctor,342606,74.27,53.51,5.4,5.9,High,78.04,No,No,3.9,Average,2,Music,Pass,Offline,52,53
+379,Rajat,Male,18,High School,Farmer,84892,85.88,43.79,2.1,7.7,High,79.16,Yes,No,0.9,Excellent,2,None,Pass,Offline,49,60
+380,Vivaan,Male,16,High School,Shopkeeper,297049,82.86,93.25,3,6.6,Low,99.24,Yes,No,3,Poor,5,Sports,Pass,Offline,34,29
+381,Aditya,Male,17,PG,Scientist,274973,67.14,83.87,1.4,9,Medium,94.75,Yes,No,3.4,Poor,2,Dance,Pass,Offline,52,53
+382,Neha,Female,16,PG,Scientist,142867,93.72,92.17,2.6,7.5,Low,72.08,No,Yes,2.5,Average,4,None,Pass,Online,52,53
+383,Harsh,Male,16,PG,Professor,376184,52.04,54.25,2.3,7.2,Low,67.37,Yes,Yes,3.4,Excellent,4,None,Pass,Online,52,53
+384,Pranav,Male,15,High School,Security Guard,255492,61.89,50.1,5.3,8.3,Medium,64.93,Yes,Yes,0.3,Good,2,Sports,Pass,Online,74,72
+385,Raj,Male,14,UG,Clerk,153912,98.49,50.45,3.3,6.3,High,77.67,No,No,2.2,Good,3,Art,Pass,Offline,52,53
+386,Krishna,Male,17,UG,Clerk,334001,64.59,73.52,1.4,6.3,Medium,50.79,No,No,0.2,Excellent,4,Music,Pass,Online,52,53
+387,Pranav,Male,15,High School,Farmer,311941,63.87,79.48,5.5,5.2,Low,51.07,Yes,No,1.2,Good,2,Art,Pass,Offline,76,78
+388,Pooja,Female,17,High School,Driver,361303,68.58,72.36,3.5,8.1,High,62.85,No,Yes,1.3,Excellent,5,Dance,Pass,Online,38,36
+389,Priya,Female,15,UG,Clerk,60622,64.89,64.67,2,8.1,Low,53.34,Yes,Yes,1.3,Poor,5,Music,Pass,Online,52,47
+390,Krishna,Male,17,High School,Driver,75631,71.14,95.58,5.4,7.5,Medium,80.16,No,No,0.5,Average,4,Dance,Pass,Online,60,57
+391,Tanya,Female,16,PG,Manager,260584,80.71,57.14,5.6,6.7,Medium,67.29,No,Yes,2.9,Good,3,Music,Pass,Offline,52,53
+392,Diya,Female,16,UG,Teacher,103643,99.36,42.26,1.2,5.3,High,50.82,Yes,No,4,Average,1,Music,Pass,Offline,52,53
+393,Nikita,Female,16,PG,Doctor,106062,67.38,49.33,3.3,8.2,High,59.88,Yes,No,2.6,Average,3,Music,Pass,Online,52,53
+394,Riya,Female,15,High School,Driver,255988,78.59,67.61,4,8.3,Medium,81.67,No,Yes,2,Excellent,2,Music,Pass,Offline,64,73
+395,Swati,Female,15,High School,Farmer,480378,96.75,81.66,1.3,5.9,Medium,96.69,No,Yes,3.1,Poor,1,Sports,Pass,Online,50,52
+396,Vikram,Male,17,High School,Farmer,425270,53.59,62.2,2,5.3,Medium,83.48,Yes,Yes,3.8,Average,3,Dance,Pass,Online,41,38
+397,Yash,Male,17,UG,Accountant,63952,55.48,76.19,1.6,8,High,62.77,Yes,Yes,0,Average,3,Music,Pass,Online,52,53
+398,Vikram,Male,15,High School,Shopkeeper,368344,69.56,74.02,3,6.8,High,59.32,No,Yes,0.7,Good,3,Dance,Pass,Online,49,49
+399,Sakshi,Female,17,PG,Engineer,461843,69.89,95.5,3.2,8.9,Medium,82.84,No,No,3,Excellent,4,None,Pass,Offline,52,53
+400,Kavya,Female,18,PG,Doctor,474594,87.68,51.26,4.4,6.3,High,68.43,Yes,No,0.4,Poor,1,Art,Pass,Offline,52,53
+401,Priya,Female,18,UG,Clerk,450905,60.61,51.23,4.4,7.2,Low,94.83,Yes,No,3.9,Average,3,Art,Pass,Online,52,53
+402,Aditya,Male,18,PG,Engineer,244295,52.29,42.4,2.1,6.7,Low,58.1,Yes,No,3.7,Good,5,None,Pass,Offline,52,50
+403,Abhishek,Male,18,PG,Doctor,273261,76.33,47.68,5.2,8.7,Medium,53.04,Yes,Yes,1.4,Poor,1,Music,Pass,Online,52,53
+404,Rajat,Male,17,High School,Driver,446046,53.28,74.06,5.8,5.5,Low,81.72,Yes,No,3.9,Average,4,Music,Pass,Offline,63,64
+405,Rajat,Male,17,High School,Farmer,111145,75.38,78.89,5.3,7.6,Medium,62.37,No,Yes,0.4,Good,4,Art,Pass,Offline,59,57
+406,Bhavna,Female,15,PG,Scientist,489182,82.94,49.58,2.5,6.9,Medium,60.02,Yes,No,1.5,Excellent,3,Dance,Pass,Offline,52,53
+407,Aanya,Female,17,High School,Tailor,339603,50.3,85.04,4.9,7.1,Medium,58.51,Yes,Yes,3.2,Excellent,4,None,Pass,Offline,56,51
+408,Vikram,Male,15,PG,Doctor,175146,73.74,56.96,3.1,6.6,Medium,70.63,No,Yes,2.3,Good,5,Music,Pass,Online,52,49
+409,Vivaan,Male,17,PG,Manager,110921,87.78,42.38,2.7,8.8,Low,80.67,Yes,No,0.1,Poor,3,Art,Pass,Offline,52,53
+410,Sakshi,Female,16,UG,Clerk,215548,54.74,45.86,2.9,6,Medium,61.01,Yes,Yes,3.8,Excellent,3,Dance,Pass,Offline,52,53
+411,Diya,Female,14,PG,Scientist,81749,64.75,41.35,1.7,5.5,Low,81.11,Yes,Yes,1,Poor,4,Dance,Pass,Offline,52,53
+412,Pooja,Female,18,PG,Doctor,363946,67.93,96.8,4.6,5.2,High,81.17,Yes,Yes,1.8,Good,3,None,Pass,Online,52,53
+413,Sneha,Female,17,UG,Teacher,294523,69,65.72,4.4,7.2,High,55.39,No,No,2.1,Good,4,Art,Pass,Offline,52,53
+414,Vivaan,Male,18,PG,Manager,431090,71.9,43.91,5.9,8.8,High,99.2,No,Yes,2.6,Average,3,Art,Pass,Online,52,53
+415,Aanya,Female,18,High School,Farmer,293660,79.72,91.25,4.4,7.9,Medium,76.26,Yes,No,0.4,Excellent,3,Sports,Pass,Offline,60,60
+416,Sneha,Female,17,High School,Farmer,436897,64.14,64.04,3.9,5.7,Low,81.97,No,No,0.6,Average,3,Dance,Pass,Online,56,56
+417,Rajat,Male,15,High School,Farmer,343563,76.46,71.29,4.6,5.7,Low,91.02,No,No,2.4,Average,3,Sports,Pass,Offline,61,69
+418,Vivaan,Male,14,High School,Shopkeeper,61328,76.54,57,2.3,5.8,Medium,50.46,Yes,No,0.4,Excellent,4,Art,Pass,Offline,35,36
+419,Neha,Female,14,High School,Driver,453457,89.27,58.01,4.8,5.5,High,86.91,No,No,3.2,Poor,5,Music,Pass,Offline,48,47
+420,Anjali,Female,15,PG,Scientist,299900,58.34,69.75,5.5,7.3,High,60.44,Yes,Yes,2.5,Poor,4,Art,Pass,Online,52,53
+421,Rajat,Male,17,UG,Salesperson,71548,75.73,71.34,4.9,8.9,Low,56.24,No,No,3.9,Excellent,5,None,Pass,Offline,52,48
+422,Rahul,Male,16,PG,Doctor,58724,99.51,68.31,4.8,7.9,Low,77.31,Yes,No,3.7,Poor,2,Music,Pass,Online,52,53
+423,Nikita,Female,18,UG,Accountant,105349,83.56,49.18,1.6,8.2,Low,53.12,Yes,No,1.6,Poor,5,Dance,Pass,Online,52,47
+424,Kunal,Male,14,PG,Manager,68233,98.92,78.33,4.2,8.8,Medium,83.04,Yes,Yes,1.8,Good,1,Sports,Pass,Online,52,53
+425,Aryan,Male,16,High School,Security Guard,425900,56.26,57.91,1.7,9,High,68.46,No,No,0.4,Average,2,None,Pass,Online,46,46
+426,Shreya,Female,16,UG,Technician,297850,89.74,66.36,2.2,6,Medium,58.89,Yes,Yes,1.8,Average,3,Art,Pass,Offline,52,53
+427,Kavya,Female,15,UG,Clerk,411187,56.07,62.71,1.4,7.7,High,73.23,Yes,Yes,1.5,Poor,2,None,Pass,Online,52,53
+428,Shreya,Female,16,PG,Scientist,95670,81.28,45.92,2.9,7.7,Medium,66.13,No,Yes,1.9,Good,4,Sports,Pass,Offline,52,53
+429,Priya,Female,14,UG,Accountant,159949,72.75,69.84,4.6,6.1,Medium,60.75,Yes,Yes,2.1,Average,1,Dance,Pass,Offline,52,53
+430,Isha,Female,17,High School,Security Guard,443576,50.69,63.45,2.5,6.5,Medium,64.32,No,No,2.2,Excellent,3,Art,Pass,Online,44,44
+431,Isha,Female,18,High School,Shopkeeper,238169,70.7,48.11,5,5.9,Medium,55.98,No,No,0.2,Excellent,3,Dance,Pass,Offline,65,59
+432,Vivaan,Male,18,PG,Doctor,325460,81.11,82.4,2.9,5.4,Low,54.05,No,No,2.7,Average,2,Music,Pass,Offline,52,53
+433,Nikhil,Male,16,High School,Driver,412392,61.48,92.53,2.6,8,Medium,87.28,Yes,No,0.8,Good,5,Music,Pass,Online,30,29
+434,Siddharth,Male,17,PG,Manager,333935,58.41,42.85,1.5,8.3,Medium,68.17,Yes,No,0.2,Excellent,4,Art,Pass,Online,52,53
+435,Anjali,Female,14,PG,Professor,195635,92.06,61.38,2.7,7.8,High,50.14,No,No,1.8,Good,1,Music,Pass,Offline,52,53
+436,Kunal,Male,17,High School,Tailor,128411,57.01,48.92,5.9,7.3,Low,75.5,Yes,Yes,3.1,Good,2,None,Pass,Offline,79,80
+437,Kavya,Female,16,High School,Shopkeeper,475717,61.58,75.6,1.3,5.5,Low,71.24,No,Yes,3.4,Excellent,2,Dance,Pass,Offline,42,51
+438,Trisha,Female,18,PG,Professor,419357,69.5,68.57,4,6.6,High,80.5,No,Yes,3.4,Poor,1,Art,Pass,Online,52,53
+439,Nikhil,Male,17,UG,Teacher,60926,75.72,70.48,5.8,6.8,Medium,59.89,Yes,No,2.5,Average,1,None,Pass,Online,52,53
+440,Nikita,Female,15,PG,Scientist,94599,58.64,47.02,2.7,9,High,58.95,No,No,3.8,Average,4,Art,Pass,Online,52,53
+441,Aryan,Male,18,UG,Technician,130505,96.47,88.47,5.9,8.4,High,79.54,Yes,No,0.4,Poor,4,None,Pass,Online,52,53
+442,Meera,Female,17,PG,Manager,214067,60.58,46.65,4.6,8.8,Low,96.11,No,Yes,1.1,Good,5,None,Pass,Offline,52,49
+443,Manish,Male,14,UG,Salesperson,76933,65.24,88.18,3.4,5.5,Low,96.92,Yes,No,1.9,Poor,3,None,Pass,Offline,52,53
+444,Nikhil,Male,16,High School,Tailor,277085,50.04,69.79,5.9,7.9,Low,50.58,No,Yes,0.3,Excellent,3,Music,Pass,Offline,72,71
+445,Neha,Female,18,UG,Accountant,236761,82.98,87.26,5.6,9,Low,90.43,Yes,No,0.6,Poor,2,Music,Pass,Offline,52,53
+446,Sakshi,Female,18,High School,Farmer,497507,97.95,62.2,5.2,6.3,Medium,75.99,Yes,No,3.7,Average,5,Sports,Pass,Offline,51,48
+447,Aniket,Male,18,High School,Driver,173787,94.54,51.63,4.6,6.7,Low,88.65,No,Yes,1.2,Poor,5,None,Pass,Online,46,45
+448,Neha,Female,18,UG,Technician,278239,83.66,63.37,4.5,6.9,High,78.81,Yes,Yes,0.5,Good,4,None,Pass,Online,52,53
+449,Aarav,Male,17,PG,Professor,352328,99.31,82.78,4.8,7.3,Low,70.35,Yes,No,1.5,Good,3,Sports,Pass,Offline,52,53
+450,Meera,Female,15,UG,Salesperson,224891,57.84,65.72,3.5,6.7,Low,80.49,Yes,No,3,Good,2,None,Pass,Online,52,53
+451,Rajat,Male,17,PG,Professor,415237,56.76,94.21,2.4,5.6,Medium,50.97,No,Yes,0,Excellent,2,Dance,Pass,Offline,52,53
+452,Aarav,Male,17,UG,Technician,369637,74.62,82.45,2.1,6.8,Low,90.73,No,No,2.8,Excellent,3,Sports,Pass,Online,52,53
+453,Vivaan,Male,14,PG,Scientist,119182,56.52,51.85,5,8.2,Low,89.53,Yes,No,1.3,Poor,5,Sports,Pass,Online,52,50
+454,Riya,Female,18,UG,Clerk,224519,73.41,87.01,1.9,8.5,High,60.56,Yes,No,2.2,Poor,3,Music,Pass,Offline,52,53
+455,Riya,Female,18,PG,Professor,162288,60.31,90.08,5.7,5.5,Low,64.12,Yes,No,1.1,Excellent,5,Dance,Pass,Online,52,47
+456,Shreya,Female,16,UG,Salesperson,194965,50.07,43.93,1.5,6.7,High,57.11,No,No,2.6,Average,2,Dance,Pass,Online,52,53
+457,Tanya,Female,18,PG,Manager,444941,82.75,63.45,1.4,6.5,High,90.95,No,Yes,0.4,Excellent,1,None,Pass,Offline,52,53
+458,Sneha,Female,18,UG,Clerk,194861,96.45,99.24,2.3,5.8,High,68.62,No,No,2.9,Good,3,Art,Pass,Online,52,53
+459,Nikita,Female,17,High School,Security Guard,489880,88.25,65.5,3.6,6.4,Low,53.99,Yes,No,3.3,Average,1,Art,Pass,Online,68,71
+460,Neha,Female,15,PG,Manager,97621,60.25,92.6,3.4,5.7,Medium,97.69,No,No,3.5,Average,4,Music,Pass,Online,52,53
+461,Shreya,Female,17,High School,Shopkeeper,97432,76.68,89.64,1.8,8.4,High,83.07,No,Yes,3.3,Good,3,Dance,Pass,Online,39,49
+462,Raj,Male,17,PG,Manager,205715,98.58,64.43,4.9,7.4,Low,82.49,No,No,2.1,Excellent,1,Sports,Pass,Offline,52,53
+463,Aarav,Male,18,PG,Professor,429977,60.6,82.23,2.9,5.9,Medium,94.32,No,No,0.8,Average,4,Art,Pass,Online,52,53
+464,Kunal,Male,14,UG,Technician,495758,81.85,71.32,1.1,7.1,Low,88.37,No,Yes,2.8,Excellent,3,Sports,Pass,Offline,52,53
+465,Aryan,Male,16,High School,Security Guard,186997,76.26,98.61,5.8,6,Low,52.24,No,Yes,4,Poor,5,Dance,Pass,Online,56,55
+466,Priya,Female,18,High School,Tailor,271653,51.39,96.21,6,5.7,Medium,61.28,No,No,2.1,Poor,3,Art,Pass,Offline,73,71
+467,Pranav,Male,14,High School,Farmer,243682,63.39,81.38,2.6,7.4,Low,80.27,No,No,2.9,Average,4,Art,Pass,Offline,38,38
+468,Kavya,Female,18,UG,Teacher,460950,56.99,65.43,1.4,6.3,Low,90.07,Yes,Yes,0.1,Excellent,1,Dance,Pass,Online,52,53
+469,Bhavna,Female,15,UG,Salesperson,367745,89.91,61.6,3.4,5.7,High,87.59,Yes,No,3.7,Excellent,4,Dance,Pass,Online,52,53
+470,Aniket,Male,17,UG,Clerk,213950,98.07,91.03,4.9,8.5,Low,99.99,No,No,0.2,Average,5,Art,Pass,Offline,52,47
+471,Anjali,Female,16,High School,Security Guard,199517,64.77,77.66,3.2,8.3,Medium,83.78,No,Yes,1,Good,3,Music,Pass,Online,50,49
+472,Yash,Male,18,PG,Doctor,454978,78.85,91.43,3.9,8,High,58.86,No,Yes,2.6,Average,3,Dance,Pass,Online,52,53
+473,Harsh,Male,16,High School,Farmer,303254,70.97,50.8,2.6,6.7,High,73.13,No,No,1.3,Poor,4,Music,Pass,Offline,38,30
+474,Vikram,Male,15,PG,Manager,176111,68.24,99.95,1.9,5.9,High,83.56,Yes,No,1.9,Average,3,Art,Pass,Online,52,53
+475,Aryan,Male,16,PG,Doctor,425561,52.98,71.42,1.3,7.6,Low,96,No,Yes,1.8,Poor,3,Music,Pass,Online,52,53
+476,Shreya,Female,14,UG,Technician,170472,70.23,44.32,5.2,6.3,Medium,65.3,Yes,No,1.5,Poor,2,Sports,Pass,Online,52,53
+477,Komal,Female,17,High School,Shopkeeper,391005,82.47,96.76,1.3,5,Medium,64.74,Yes,Yes,1.4,Good,1,Dance,Pass,Offline,50,53
+478,Kavya,Female,17,High School,Security Guard,51995,95.31,44.17,5.6,8.2,Medium,81.45,No,Yes,0.9,Average,4,None,Pass,Online,62,63
+479,Nikita,Female,16,PG,Professor,124994,62.67,62.01,4.7,8.5,High,87.11,Yes,No,3.2,Excellent,5,None,Pass,Online,52,48
+480,Rahul,Male,18,UG,Salesperson,77477,65.87,42.17,2.9,5.3,High,70.92,Yes,Yes,1.4,Excellent,4,Sports,Pass,Online,52,53
+481,Tanya,Female,14,UG,Clerk,285991,92.03,53.12,1.2,7.3,Medium,98.49,Yes,No,0.2,Poor,5,Music,Pass,Offline,52,47
+482,Aditya,Male,15,PG,Scientist,407405,69.57,54.45,6,5.7,High,86.45,No,No,2,Good,2,Sports,Pass,Offline,52,53
+483,Priya,Female,17,High School,Farmer,78912,88.01,70.17,4.7,8.3,Low,90.36,No,Yes,2.8,Average,2,Music,Pass,Offline,70,70
+484,Simran,Female,17,PG,Doctor,288629,62.52,99.3,4.6,5.3,High,75.01,No,No,0.4,Excellent,5,Dance,Pass,Offline,52,48
+485,Riya,Female,18,PG,Engineer,483451,93.68,73.47,2.1,7.5,High,70.39,No,No,0.1,Excellent,5,Sports,Pass,Offline,52,51
+486,Isha,Female,18,High School,Shopkeeper,111059,70.21,77.18,2.6,8.9,Low,52.86,No,Yes,1.2,Good,3,None,Pass,Offline,45,38
+487,Krishna,Male,16,PG,Doctor,313070,96.69,82.78,1.9,8.6,Low,85.92,Yes,Yes,3.1,Poor,3,Music,Pass,Online,52,53
+488,Priya,Female,15,UG,Salesperson,390536,95.89,61.38,3.5,7,Low,91.82,No,No,3.7,Good,4,Art,Pass,Offline,52,53
+489,Rohan,Male,15,High School,Farmer,134535,55.06,61.87,1.3,8.9,Medium,53.95,No,Yes,1.9,Good,1,Dance,Pass,Online,50,58
+490,Vikram,Male,17,High School,Tailor,112768,85.95,80.33,1.1,8.3,Medium,74.82,No,Yes,3.4,Excellent,4,None,Pass,Online,26,30
+491,Swati,Female,15,High School,Shopkeeper,321685,57.13,67.75,5.8,6.9,High,94.41,Yes,No,0.8,Excellent,4,Art,Pass,Online,63,63
+492,Vikram,Male,17,UG,Salesperson,321791,92.89,49,5.6,8.5,Medium,64.47,Yes,Yes,3,Good,1,Art,Pass,Offline,52,53
+493,Anjali,Female,15,High School,Farmer,221799,78,83.48,5.7,8.9,Low,77.3,No,Yes,1.3,Average,2,Music,Pass,Online,78,78
+494,Sakshi,Female,15,High School,Shopkeeper,66742,89.53,84.05,3.1,8.9,High,70.29,Yes,No,0.4,Excellent,4,Music,Pass,Online,42,37
+495,Harsh,Male,14,PG,Scientist,142947,82.25,93.96,3.2,6,Low,55.97,No,No,0.4,Poor,5,Sports,Pass,Online,52,51
+496,Siddharth,Male,16,UG,Clerk,115161,76.53,78.37,4.1,6.1,Low,87.19,No,No,4,Poor,2,Dance,Pass,Online,52,53
+497,Aarav,Male,14,High School,Farmer,273983,92.91,75.76,3.2,5.1,Medium,69.94,No,Yes,2.9,Good,3,None,Pass,Online,50,45
+498,Harsh,Male,14,UG,Teacher,272709,84.97,62.59,5.4,5.1,High,73.11,Yes,Yes,0.5,Good,5,Sports,Pass,Offline,52,51
+499,Amit,Male,14,UG,Salesperson,442932,72.01,72.28,1.8,5,Medium,54.44,No,Yes,2.7,Poor,3,Dance,Pass,Offline,52,53
+500,Rohan,Male,18,PG,Professor,243486,52.77,78.3,4.4,5.1,Low,86.44,Yes,No,1.7,Good,1,Art,Pass,Online,52,53
+501,Swati,Female,17,High School,Security Guard,128195,51.09,68.44,5.2,5.6,Low,76.81,Yes,Yes,0.2,Good,2,None,Pass,Offline,74,78
+502,Nikhil,Male,18,PG,Doctor,370581,93.29,97.9,6,6.2,Medium,72.03,Yes,Yes,1.9,Average,2,None,Pass,Online,52,53
+503,Tanya,Female,16,UG,Clerk,129460,60.81,94.76,2.9,7.1,Medium,99.03,No,Yes,0.5,Excellent,2,Sports,Pass,Offline,52,53
+504,Vikram,Male,16,PG,Professor,347193,60.02,79.85,3.7,8.6,Low,97.92,Yes,No,0.2,Poor,2,None,Pass,Offline,52,53
+505,Sakshi,Female,17,PG,Engineer,394074,64.84,97.69,4.5,5.2,High,74.31,No,Yes,1.6,Good,5,None,Pass,Online,52,48
+506,Raj,Male,14,PG,Scientist,171720,91.75,94.97,5.8,6.3,High,99.04,Yes,No,2.3,Excellent,3,Sports,Pass,Offline,52,53
+507,Yash,Male,17,PG,Manager,441689,87,56.94,1.3,7.1,High,50.31,No,Yes,0.1,Average,4,Art,Pass,Online,52,53
+508,Neha,Female,18,High School,Driver,361466,87.74,72.68,4,8.8,Medium,97.67,Yes,No,1.3,Good,2,None,Pass,Online,64,64
+509,Komal,Female,14,UG,Salesperson,246934,71.8,77.69,1.3,8.2,High,65.84,No,No,1.8,Average,5,Art,Pass,Online,52,49
+510,Yash,Male,16,PG,Professor,368410,87.57,80.07,5.2,6.5,Low,88.07,Yes,Yes,0.2,Good,5,None,Pass,Offline,52,47
+511,Anjali,Female,15,PG,Manager,200905,96.11,99.56,4.5,8.7,Low,81.24,No,No,1.7,Excellent,1,Music,Pass,Offline,52,53
+512,Pranav,Male,16,PG,Manager,394667,97.52,90.01,5.4,8.6,Low,61.75,Yes,No,1.8,Average,3,Dance,Pass,Offline,52,53
+513,Anjali,Female,16,High School,Farmer,426579,62.39,81.62,4.8,8.9,Medium,63.8,No,No,2.5,Good,4,Art,Pass,Online,55,55
+514,Vivaan,Male,15,PG,Manager,351704,89.68,83.24,5.6,6.7,High,58.94,No,Yes,3.7,Poor,2,Dance,Pass,Offline,52,53
+515,Riya,Female,18,PG,Professor,225013,62.91,77.67,3.6,7.7,High,64.41,Yes,No,2.5,Good,4,Music,Pass,Offline,52,53
+516,Komal,Female,15,High School,Driver,414156,66.42,93.1,3.5,6.4,High,67.29,Yes,No,2.4,Average,5,None,Pass,Offline,38,34
+517,Tanya,Female,14,UG,Salesperson,353520,81.5,91.19,2.6,6.8,Low,51.09,No,No,2.1,Poor,4,Music,Pass,Offline,52,53
+518,Pooja,Female,18,High School,Tailor,107016,62.03,57.65,4,8.9,Medium,92.78,Yes,No,3.3,Poor,5,None,Pass,Online,42,39
+519,Trisha,Female,18,High School,Farmer,159401,93.98,61.13,1.5,5.9,High,57.94,Yes,No,0.1,Poor,5,None,Pass,Offline,22,21
+520,Abhishek,Male,15,PG,Doctor,102422,59.69,76.12,2.6,8.6,Low,87.96,No,No,3.9,Excellent,4,Sports,Pass,Online,52,53
+521,Shreya,Female,17,PG,Manager,356904,60.2,97.4,5.1,8.6,Medium,63.75,No,No,3.7,Average,1,Music,Pass,Offline,52,53
+522,Anjali,Female,17,UG,Salesperson,77132,68.82,70.57,2.5,5.4,Medium,98.81,Yes,Yes,1,Excellent,1,None,Pass,Offline,52,53
+523,Rohan,Male,16,PG,Manager,256461,86.76,98.57,2,6.5,High,67.16,No,Yes,0.6,Good,2,Art,Pass,Online,52,53
+524,Trisha,Female,14,High School,Farmer,57720,96.87,77.66,3.7,7.8,High,86.97,Yes,Yes,1.9,Average,4,None,Pass,Online,47,49
+525,Aditya,Male,16,High School,Tailor,114276,51.36,75.02,4.6,6.6,Low,78.19,Yes,Yes,1.4,Good,1,Music,Pass,Offline,76,81
+526,Kavya,Female,18,UG,Teacher,93609,80.1,85.66,2.1,6.5,Low,59.87,Yes,Yes,2.4,Excellent,4,Dance,Pass,Online,52,53
+527,Bhavna,Female,16,PG,Doctor,108945,51.34,43.07,1.8,6.3,Medium,88.36,Yes,Yes,2.6,Good,1,Art,Pass,Offline,52,53
+528,Sakshi,Female,16,PG,Doctor,419805,70,93.64,5.7,7.1,High,73.61,No,No,3.8,Good,5,None,Pass,Offline,52,47
+529,Kavya,Female,14,UG,Technician,170843,75.64,92.43,5.3,8,High,82.01,Yes,No,3.9,Average,1,Music,Pass,Offline,52,53
+530,Yash,Male,14,UG,Technician,164585,64.38,56.08,1.3,6.5,Low,83.31,Yes,Yes,2.3,Good,5,Music,Pass,Online,52,50
+531,Sneha,Female,17,High School,Driver,466114,72.8,46.5,1.1,8.8,Low,92.14,Yes,No,1.7,Good,1,Dance,Pass,Offline,48,53
+532,Rohan,Male,17,High School,Shopkeeper,260899,52.22,45.13,2.8,8,High,97.02,Yes,No,2.3,Average,3,Dance,Pass,Offline,47,39
+533,Pranav,Male,15,UG,Technician,336418,58.52,83.04,5,6.7,Medium,61.83,No,No,2.9,Good,1,Art,Pass,Offline,52,53
+534,Anjali,Female,14,High School,Driver,261552,98.07,55.47,5.6,6.1,Low,56.57,No,Yes,2.6,Good,1,Dance,Pass,Online,84,89
+535,Sneha,Female,15,PG,Scientist,347601,76.26,65.64,2.3,6.5,High,78.92,Yes,Yes,1.4,Good,1,Art,Pass,Offline,52,53
+536,Pooja,Female,15,UG,Technician,451385,52.07,45.1,4.3,8,High,92.21,No,No,1.6,Average,5,None,Pass,Offline,52,47
+537,Aryan,Male,16,High School,Driver,365799,83.65,46.65,5.5,8.2,High,74.12,No,Yes,0.9,Good,2,Music,Pass,Offline,76,72
+538,Rajat,Male,17,UG,Accountant,466972,61.54,89.78,1.4,6.6,Medium,93.8,No,No,3,Excellent,4,None,Pass,Online,52,53
+539,Trisha,Female,15,PG,Engineer,276700,79.01,77.99,3.6,8.8,Low,79.38,Yes,No,2.2,Poor,5,None,Pass,Online,52,47
+540,Vivaan,Male,15,High School,Driver,195551,94.13,68.56,5.8,5.5,Medium,67.25,No,Yes,3.9,Good,4,Sports,Pass,Offline,63,61
+541,Vikram,Male,17,UG,Technician,241419,90.85,63.64,4.3,8.5,Medium,63.44,Yes,Yes,2.9,Poor,1,Music,Pass,Offline,52,53
+542,Raj,Male,18,UG,Accountant,474836,99.43,89.67,2,5.6,High,73.78,No,No,3.5,Average,3,Sports,Pass,Online,52,53
+543,Rahul,Male,16,High School,Driver,405341,64.67,86.66,5.1,7.3,High,94.33,Yes,No,1.2,Poor,1,None,Pass,Offline,80,83
+544,Tanya,Female,18,PG,Manager,339612,85.56,58.46,4.2,7.4,High,96.99,Yes,No,0.6,Average,4,Dance,Pass,Online,52,53
+545,Tanya,Female,16,High School,Security Guard,137642,59.64,79.21,5.6,5.4,Medium,74.35,No,No,2.9,Excellent,4,None,Pass,Offline,62,49
+546,Amit,Male,16,PG,Professor,373197,54.83,68.5,1.7,8.7,Medium,89.08,Yes,Yes,1.9,Good,4,Art,Pass,Offline,52,53
+547,Yash,Male,15,PG,Manager,61087,77.43,89.86,3.5,6.8,Medium,97.64,Yes,Yes,1.5,Poor,1,Art,Pass,Online,52,53
+548,Aniket,Male,16,UG,Accountant,350510,86.22,41.51,1.6,7.9,High,97.91,No,No,3.1,Poor,1,Sports,Pass,Offline,52,53
+549,Manish,Male,17,High School,Shopkeeper,480028,76.96,48.47,5.5,6.4,Medium,76.81,Yes,No,3.7,Good,4,Dance,Pass,Online,61,63
+550,Aniket,Male,14,UG,Accountant,459361,78.04,62.09,4.5,8.5,Low,61.72,No,Yes,0.9,Good,5,None,Pass,Online,52,47
+551,Aarav,Male,15,PG,Professor,391909,62.54,76.42,2.8,8.1,Low,50.81,Yes,Yes,2.4,Poor,1,Music,Pass,Offline,52,53
+552,Vikram,Male,16,High School,Tailor,283830,73.22,42.89,2.1,6.7,Medium,64.43,Yes,No,0,Excellent,2,Music,Pass,Online,49,49
+553,Bhavna,Female,17,High School,Driver,397336,57.52,98.23,4.8,7.6,Medium,83.23,No,Yes,3.9,Excellent,4,Dance,Pass,Online,55,61
+554,Krishna,Male,18,PG,Manager,78118,67.1,44.69,2.7,5.3,Medium,53.47,No,Yes,2.4,Good,2,Dance,Pass,Offline,52,53
+555,Nikita,Female,14,PG,Professor,113926,59.2,71.83,4.6,6.7,High,73.21,Yes,Yes,0.7,Excellent,4,None,Pass,Online,52,53
+556,Shreya,Female,16,UG,Teacher,372181,78.63,52.49,1.7,5.6,Low,68.15,Yes,No,1.1,Average,5,Music,Pass,Offline,52,50
+557,Vivaan,Male,18,PG,Engineer,482098,50.07,67.23,1.4,5.7,Medium,52.96,No,No,2.9,Average,2,Art,Pass,Offline,52,53
+558,Aanya,Female,15,UG,Teacher,412508,92.73,85.76,3.8,8.1,Low,74.08,Yes,Yes,0.5,Excellent,1,Sports,Pass,Offline,52,53
+559,Anjali,Female,17,High School,Farmer,272912,88,48.08,3.7,8.9,Low,91.92,No,No,2,Poor,4,Art,Pass,Offline,47,49
+560,Krishna,Male,18,High School,Security Guard,131874,86.86,93.2,1.4,6.9,High,87.96,No,Yes,2.6,Poor,4,Sports,Pass,Offline,28,28
+561,Simran,Female,15,High School,Tailor,438675,79.49,42.87,5.3,6.7,Medium,53.23,Yes,No,2.5,Excellent,1,Art,Pass,Online,82,83
+562,Riya,Female,17,High School,Tailor,244631,50.26,48.96,2.5,5.7,Medium,59.89,No,No,3.1,Average,2,Music,Pass,Offline,52,62
+563,Kunal,Male,17,High School,Farmer,400544,63.32,72.11,5.9,8,Low,82.37,Yes,No,0.3,Good,1,None,Pass,Online,87,91
+564,Simran,Female,17,High School,Driver,387043,54.55,55.71,3,7.8,High,83.54,No,No,1.7,Average,3,Dance,Pass,Online,49,47
+565,Diya,Female,15,UG,Technician,378213,77.08,86.4,4,5.8,Medium,58.27,No,No,0.4,Good,1,Art,Pass,Online,52,53
+566,Shreya,Female,15,UG,Clerk,401078,66.1,89.33,3.9,7.4,Medium,58.65,Yes,Yes,2.2,Average,2,None,Pass,Online,52,53
+567,Trisha,Female,17,PG,Manager,103198,64.5,85.19,5,8.5,Low,92.53,Yes,No,2.9,Excellent,4,Dance,Pass,Offline,52,53
+568,Aniket,Male,18,High School,Farmer,461068,96.93,86.32,1.8,6.6,Low,96.22,Yes,Yes,1.7,Poor,2,Dance,Pass,Offline,46,41
+569,Kunal,Male,18,High School,Shopkeeper,344180,91.01,74.68,1.6,6.3,Low,83.16,Yes,No,2.3,Poor,4,Sports,Pass,Offline,30,20
+570,Tanya,Female,15,PG,Doctor,260320,62.88,97.95,5.1,8.4,High,62.69,No,Yes,3,Poor,5,None,Pass,Offline,52,51
+571,Tanya,Female,16,High School,Tailor,202075,83.42,75.17,5.7,6,Low,81.59,No,No,0.1,Excellent,2,Sports,Pass,Online,78,78
+572,Sneha,Female,18,High School,Tailor,386810,57.44,46.61,5.1,8.3,Medium,72.45,No,Yes,1.1,Average,3,Art,Pass,Offline,65,65
+573,Aditya,Male,15,High School,Security Guard,391501,57.13,54.31,3.9,5.4,High,73.08,No,No,3.2,Average,4,Sports,Pass,Online,48,48
+574,Neha,Female,18,UG,Salesperson,307531,83.38,43.5,1.6,8.3,Low,50.11,No,Yes,0.1,Average,5,Sports,Pass,Online,52,47
+575,Neha,Female,14,High School,Shopkeeper,413046,67.51,85.08,2.4,5.9,Low,94.47,No,No,2.6,Excellent,4,Sports,Pass,Online,36,40
+576,Krishna,Male,15,High School,Shopkeeper,384079,67.75,75.82,1.8,8.2,Low,85.97,No,Yes,0,Average,4,Art,Pass,Offline,31,31
+577,Pranav,Male,15,UG,Salesperson,380853,83.25,42.83,3.6,8.2,High,62.61,No,Yes,2.7,Good,5,Art,Pass,Offline,52,50
+578,Meera,Female,18,High School,Driver,177778,79.62,59.3,2.2,5.9,Low,61.82,Yes,No,3.5,Excellent,2,Art,Pass,Online,50,53
+579,Swati,Female,15,PG,Professor,366709,55.05,98.25,2.5,6.4,Medium,69.76,Yes,No,0.2,Good,5,Music,Pass,Online,52,50
+580,Aditya,Male,16,UG,Technician,76966,64.96,73.17,5.6,7.9,Low,99.58,No,Yes,3.4,Excellent,2,Music,Pass,Offline,52,53
+581,Kunal,Male,16,UG,Teacher,259955,70.22,52.26,3.8,7,Low,83.08,No,No,3.8,Good,3,Music,Pass,Offline,52,53
+582,Yash,Male,14,High School,Security Guard,347335,52.08,67.34,4.2,7.9,Low,70.88,Yes,Yes,0.2,Poor,3,Sports,Pass,Online,58,56
+583,Aditya,Male,18,UG,Accountant,147139,96.13,67.63,5.3,6.2,Low,94.08,No,Yes,2.6,Poor,2,None,Pass,Online,52,53
+584,Amit,Male,14,UG,Technician,266777,93.9,68.57,2.6,6.4,Low,79.51,Yes,No,2.4,Good,5,Sports,Pass,Offline,52,49
+585,Pooja,Female,17,PG,Manager,370197,79.03,46.51,2.1,7.1,Low,64.85,No,No,0.5,Good,4,Art,Pass,Offline,52,53
+586,Amit,Male,15,High School,Driver,471012,84.03,76.89,5.7,7.9,Low,78.26,No,Yes,3.4,Poor,4,Music,Pass,Online,63,64
+587,Yash,Male,14,UG,Salesperson,156110,74.72,62.57,5.9,8.7,Low,93.85,Yes,No,2.7,Excellent,2,Sports,Pass,Offline,52,53
+588,Simran,Female,18,PG,Engineer,214023,95.25,68.63,3.6,8.3,Low,68.65,Yes,Yes,3.7,Average,4,None,Pass,Offline,52,53
+589,Simran,Female,14,High School,Driver,183705,62.86,75.47,3.9,8.2,Medium,74.7,Yes,No,1.7,Excellent,1,None,Pass,Online,71,74
+590,Yash,Male,18,PG,Engineer,343827,75.12,76.84,1.2,7.3,Low,89.49,Yes,Yes,2.7,Poor,5,Art,Pass,Online,52,48
+591,Pooja,Female,16,High School,Security Guard,151735,60.78,75.88,3.6,8.6,High,51.89,Yes,Yes,1.5,Excellent,4,Dance,Pass,Online,46,46
+592,Krishna,Male,16,UG,Accountant,450356,68.87,64.85,2,6,Medium,54.48,Yes,Yes,0.2,Good,3,Music,Pass,Offline,52,53
+593,Vikram,Male,18,PG,Scientist,412798,73.19,90.28,1.1,8,Medium,55.37,No,Yes,1,Average,5,Dance,Pass,Online,52,48
+594,Aanya,Female,15,PG,Scientist,182115,75.73,92.8,1.9,8.6,Low,60.35,No,Yes,0.8,Poor,1,Dance,Pass,Offline,52,53
+595,Riya,Female,15,High School,Shopkeeper,66719,51.39,62.35,1.6,6,Low,66.25,Yes,Yes,0.3,Good,4,Music,Pass,Online,30,30
+596,Amit,Male,15,PG,Manager,346982,93.84,89.8,3,8.3,Low,83.48,Yes,Yes,1.7,Average,5,Dance,Pass,Online,52,47
+597,Vikram,Male,17,High School,Tailor,293667,95.5,97.31,1.1,7.8,Medium,86.38,Yes,Yes,2,Average,5,Art,Pass,Offline,18,17
+598,Raj,Male,15,High School,Security Guard,197669,50.83,99.87,5.1,8.8,Medium,62.47,No,Yes,4,Poor,2,Sports,Pass,Online,73,73
+599,Swati,Female,14,PG,Professor,149125,79.46,58.5,4.8,5.4,High,74.72,No,No,0.9,Excellent,5,Art,Pass,Offline,52,50
+600,Rajat,Male,15,PG,Engineer,248561,59.73,92.69,5.9,7.1,Low,95.91,Yes,No,0.2,Good,2,Dance,Pass,Online,52,53
+601,Meera,Female,15,High School,Driver,72000,98.7,65.09,2,6.3,Low,77.45,Yes,No,2,Good,3,Art,Pass,Offline,41,44
+602,Pranav,Male,17,High School,Tailor,263716,52.63,96.83,2.2,6.8,Low,63.99,Yes,No,1.7,Poor,1,None,Pass,Online,57,62
+603,Kunal,Male,16,PG,Engineer,452840,64.78,96.71,1.9,7.1,Medium,72.41,Yes,No,3.8,Poor,4,Sports,Pass,Online,52,53
+604,Anjali,Female,18,UG,Technician,315220,97.87,44.91,3.5,5.5,Low,61.5,Yes,No,0.8,Excellent,3,Art,Pass,Offline,52,53
+605,Sneha,Female,14,UG,Accountant,495242,52.67,83.9,2,7.1,High,57.08,No,Yes,3.3,Poor,4,Art,Pass,Online,52,53
+606,Vikram,Male,16,UG,Salesperson,148187,60.89,82.97,2.5,7.9,High,69.05,Yes,No,2.6,Poor,5,None,Pass,Offline,52,50
+607,Vikram,Male,18,PG,Doctor,213766,81.18,80.94,1.5,8.9,Medium,57.63,No,No,2,Excellent,1,None,Pass,Offline,52,53
+608,Vikram,Male,15,High School,Security Guard,378351,72.78,73.92,1.6,8.7,Medium,60.83,Yes,No,3.5,Excellent,3,None,Pass,Online,37,37
+609,Krishna,Male,14,PG,Scientist,399920,74.2,93.61,1.4,7,Low,78.3,No,No,2.8,Poor,1,Music,Pass,Online,52,53
+610,Simran,Female,17,High School,Security Guard,189222,62.85,52.05,2.8,6.3,Low,65.9,Yes,No,3.4,Good,2,None,Pass,Offline,54,54
+611,Sakshi,Female,14,PG,Engineer,474553,69.75,85.84,3.2,7.3,High,82.72,Yes,Yes,3.6,Average,4,Dance,Pass,Online,52,53
+612,Simran,Female,18,UG,Clerk,118613,53.82,81.2,4.4,7.4,Low,97.97,Yes,Yes,1.2,Good,4,Art,Pass,Online,52,53
+613,Sneha,Female,14,High School,Security Guard,189796,58.27,81.36,4.1,5.6,High,87.79,No,No,3,Excellent,1,None,Pass,Online,72,74
+614,Vikram,Male,15,PG,Engineer,112092,94.17,62.38,3.8,7.8,Medium,78.07,Yes,Yes,3.1,Excellent,1,Dance,Pass,Online,52,53
+615,Trisha,Female,18,PG,Doctor,424929,99.22,66.52,4,6.7,Medium,52.46,No,Yes,3.3,Good,3,Music,Pass,Offline,52,53
+616,Riya,Female,15,PG,Doctor,68253,77.39,48.91,2.9,7.1,Low,84.27,Yes,No,1.2,Average,4,Sports,Pass,Offline,52,53
+617,Kavya,Female,16,PG,Doctor,456074,60.6,94.28,2,6.4,Medium,53.61,Yes,Yes,0.1,Poor,2,Dance,Pass,Online,52,53
+618,Harsh,Male,17,High School,Tailor,234745,72.09,73.51,3.4,7.4,Medium,73.88,No,No,3.6,Good,1,Dance,Pass,Offline,67,70
+619,Tanya,Female,16,UG,Technician,91821,66.72,63.49,4.3,6.8,Low,50.81,No,Yes,0.1,Poor,3,Art,Pass,Online,52,53
+620,Manish,Male,15,UG,Accountant,225553,53.75,47.66,3,7.3,Medium,63.03,Yes,Yes,1.4,Good,4,Dance,Pass,Offline,52,53
+621,Nikhil,Male,17,PG,Engineer,304728,97.74,57.61,4.3,8.2,Low,92.76,No,Yes,2.6,Good,1,Art,Pass,Offline,52,53
+622,Nikhil,Male,16,PG,Manager,169658,89.78,99.65,4.1,6.5,Low,51.78,No,Yes,1.6,Poor,3,Art,Pass,Offline,52,53
+623,Harsh,Male,15,PG,Doctor,76158,71.4,73.09,4.6,6.4,High,55.45,No,No,1.9,Good,2,Sports,Pass,Offline,52,53
+624,Sakshi,Female,14,High School,Driver,431134,71.55,62.68,2.5,5.2,Low,85.68,No,No,1.3,Poor,3,None,Pass,Offline,44,51
+625,Raj,Male,14,UG,Accountant,314857,66.07,52.15,5.9,7.7,Low,61.43,Yes,Yes,0.7,Excellent,4,Sports,Pass,Online,52,53
+626,Sakshi,Female,15,PG,Manager,498812,84.31,52.07,5.4,7.2,High,65.54,Yes,Yes,1.1,Poor,3,Dance,Pass,Online,52,53
+627,Krishna,Male,17,High School,Driver,445790,54.38,94.54,3.8,7.8,High,51.88,Yes,Yes,1,Excellent,4,Dance,Pass,Online,47,42
+628,Aryan,Male,16,PG,Doctor,273194,66.76,71.15,3.4,8.4,Medium,81.16,No,No,1.6,Good,5,Music,Pass,Offline,52,51
+629,Raj,Male,16,PG,Manager,286531,99.69,56.25,1.6,7.8,High,65.29,Yes,Yes,0.4,Excellent,1,Art,Pass,Offline,52,53
+630,Tanya,Female,15,UG,Technician,80445,59.89,44.79,5.3,5.7,Low,87.79,No,Yes,1.2,Good,1,None,Pass,Offline,52,53
+631,Amit,Male,17,UG,Technician,152840,61.52,68.68,3.3,5.5,Medium,93.45,No,Yes,3.6,Good,3,None,Pass,Online,52,53
+632,Aryan,Male,17,UG,Clerk,296472,66.47,93.44,5.9,8.7,Medium,99.99,No,No,0.4,Good,1,None,Pass,Offline,52,53
+633,Komal,Female,17,UG,Accountant,357003,97.24,88.68,5.2,6,High,95.13,No,Yes,3.5,Average,1,Music,Pass,Offline,52,53
+634,Siddharth,Male,14,High School,Security Guard,148701,92.14,62.02,1.7,8.5,High,88.35,Yes,No,3.8,Poor,2,Sports,Pass,Offline,46,46
+635,Sneha,Female,16,PG,Doctor,107589,98.16,55.8,1.4,6.9,Medium,96.76,No,No,0.4,Excellent,3,Sports,Pass,Offline,52,53
+636,Kunal,Male,18,PG,Manager,192183,57.76,56.4,4.9,7.5,Medium,99.86,No,Yes,3.1,Excellent,2,Art,Pass,Online,52,53
+637,Isha,Female,18,UG,Salesperson,162980,99.58,68.91,2,8.2,Medium,75.38,Yes,Yes,0.3,Average,4,Music,Pass,Offline,52,53
+638,Vivaan,Male,15,High School,Driver,482249,56.79,72.69,1.7,5.5,Low,87.31,No,No,3.6,Good,4,Sports,Pass,Offline,31,31
+639,Aniket,Male,15,High School,Security Guard,481957,87.8,93.51,2.3,7.9,Low,66.44,Yes,No,3,Good,4,Dance,Pass,Online,35,29
+640,Meera,Female,15,PG,Engineer,336096,85.7,45.93,5.9,5.4,Medium,53.12,Yes,No,2.7,Poor,2,Dance,Pass,Offline,52,53
+641,Nikita,Female,18,PG,Professor,470158,84.37,52.74,4.3,8.9,Medium,68.22,No,Yes,2.3,Good,3,Music,Pass,Online,52,53
+642,Manish,Male,16,PG,Professor,318969,72.6,55.62,2.9,5.1,Low,85.55,Yes,Yes,2.5,Average,4,Sports,Pass,Offline,52,53
+643,Bhavna,Female,17,PG,Doctor,475287,99.92,68.54,5.1,5.2,Medium,85.78,Yes,Yes,0.7,Good,3,Art,Pass,Offline,52,53
+644,Kunal,Male,14,High School,Tailor,180813,95.13,77.71,4.9,7.2,Medium,86.92,Yes,Yes,2.5,Poor,1,Sports,Pass,Online,79,83
+645,Riya,Female,17,High School,Driver,395136,57.31,94.29,5.9,6.9,Medium,87.71,Yes,Yes,4,Excellent,4,None,Pass,Offline,64,64
+646,Rahul,Male,16,PG,Doctor,301824,69.07,92.88,3,7.6,Medium,96.48,No,Yes,0.7,Poor,5,Music,Pass,Online,52,48
+647,Abhishek,Male,17,High School,Shopkeeper,68809,73.13,82.01,1.9,5,Low,78.43,No,No,2.8,Excellent,5,Dance,Pass,Online,25,11
+648,Sneha,Female,15,UG,Clerk,336782,79.81,73.12,4,5.1,High,74.38,No,Yes,0.2,Poor,1,Dance,Pass,Online,52,53
+649,Bhavna,Female,18,PG,Manager,227949,97.27,60.89,5.8,7,High,92.67,No,Yes,1.1,Good,1,Art,Pass,Online,52,53
+650,Trisha,Female,17,High School,Shopkeeper,414141,79.86,63.69,4.2,6,High,87.44,No,No,0.8,Excellent,4,Art,Pass,Online,51,54
+651,Anjali,Female,18,High School,Tailor,120759,85.79,93.82,3.4,7.6,High,62.04,Yes,No,3.8,Excellent,3,Dance,Pass,Online,52,61
+652,Vivaan,Male,17,High School,Security Guard,346095,85.68,58.55,4.7,5.9,Medium,69.22,No,No,0.2,Good,4,None,Pass,Offline,55,55
+653,Aryan,Male,18,High School,Security Guard,376124,60.2,42.61,3.5,5.2,High,99.94,Yes,No,1.6,Good,4,Sports,Pass,Offline,45,44
+654,Manish,Male,16,High School,Tailor,385733,62.12,44.33,3.4,8,High,65.15,No,Yes,0.1,Excellent,1,Sports,Pass,Offline,67,68
+655,Amit,Male,16,High School,Security Guard,207248,84.07,62.03,4.9,7.1,Low,96.79,Yes,Yes,3.7,Good,4,Dance,Pass,Offline,56,56
+656,Yash,Male,15,PG,Professor,138282,74.33,70.68,4.5,6.6,Medium,58.38,Yes,Yes,3.4,Excellent,1,Music,Pass,Offline,52,53
+657,Pooja,Female,18,UG,Accountant,265947,62.38,68.73,5.3,5.8,Medium,56.54,No,Yes,2,Excellent,4,Music,Pass,Online,52,53
+658,Rohan,Male,17,UG,Teacher,131847,63.11,85.52,3,6.4,Medium,69.04,No,No,3.6,Excellent,3,Sports,Pass,Offline,52,53
+659,Shreya,Female,17,High School,Farmer,242800,80.16,92.14,2.7,6.3,Medium,75.27,No,No,0.3,Average,1,Sports,Pass,Offline,61,62
+660,Neha,Female,15,High School,Tailor,371396,72.34,55.65,1.4,7.4,High,92.02,Yes,Yes,1.6,Average,3,Music,Pass,Offline,36,35
+661,Isha,Female,17,PG,Scientist,166396,76.11,85.14,3.6,8.4,High,63.74,No,No,3.4,Good,5,Sports,Pass,Offline,52,47
+662,Simran,Female,16,PG,Engineer,416103,73.55,50.81,2.9,7.6,High,98.41,Yes,No,1.5,Poor,4,Music,Pass,Online,52,53
+663,Aniket,Male,18,UG,Teacher,315810,87.25,42.81,1.5,8.5,Low,57.57,No,No,0.8,Good,5,None,Pass,Online,52,50
+664,Aryan,Male,15,UG,Salesperson,485891,71.09,48.56,1.7,6.7,High,96.19,Yes,No,1,Good,5,Sports,Pass,Online,52,50
+665,Pranav,Male,16,UG,Salesperson,319745,99.01,79.34,4,5.2,High,83.28,No,No,0.1,Good,4,Music,Pass,Online,52,53
+666,Sneha,Female,14,PG,Doctor,58738,79.4,93.96,3.8,5.8,Low,70.8,No,No,1.6,Good,5,Dance,Pass,Offline,52,50
+667,Bhavna,Female,15,PG,Scientist,419032,65.09,96.54,1.8,8.5,Medium,88.81,No,Yes,2.6,Good,3,Music,Pass,Offline,52,53
+668,Manish,Male,15,High School,Security Guard,74013,55.52,57.45,3.9,5.6,High,78.52,Yes,Yes,1.1,Average,5,Art,Pass,Online,41,39
+669,Swati,Female,18,High School,Farmer,231295,84.55,83.15,1.4,8,Medium,64.59,No,No,0.7,Poor,5,None,Pass,Offline,21,7
+670,Sneha,Female,16,PG,Professor,381885,93.54,73.63,1.3,8.5,Low,93.04,Yes,Yes,0.6,Average,1,Dance,Pass,Online,52,53
+671,Abhishek,Male,17,High School,Driver,216471,65.88,81.28,1.1,8.3,Low,65.11,Yes,No,1.8,Poor,4,Music,Pass,Offline,26,26
+672,Amit,Male,17,PG,Manager,432459,55.73,69.18,1.5,5.2,Low,57.9,Yes,No,1.7,Poor,2,None,Pass,Offline,52,53
+673,Pranav,Male,15,PG,Professor,73066,80.7,78.79,5.9,6.8,High,81.19,Yes,Yes,3.1,Poor,3,None,Pass,Offline,52,53
+674,Swati,Female,17,High School,Driver,429881,83.14,96.83,5.9,5.7,Low,87.96,Yes,Yes,0.6,Average,2,Music,Pass,Online,79,79
+675,Tanya,Female,18,UG,Clerk,132645,57.42,61.62,3.2,6.8,High,94.17,No,No,0.6,Good,1,Art,Pass,Offline,52,53
+676,Swati,Female,17,PG,Scientist,177965,61.32,92.34,2.3,8.9,High,63.12,Yes,No,3,Good,3,Sports,Pass,Online,52,53
+677,Sneha,Female,15,PG,Scientist,330366,68.98,75.46,4,7.8,Medium,96.64,No,No,2.4,Good,1,Art,Pass,Offline,52,53
+678,Nikita,Female,16,UG,Salesperson,493135,70.62,89,5.4,7.5,Medium,51.51,No,Yes,0.4,Average,3,Sports,Pass,Online,52,53
+679,Manish,Male,17,UG,Clerk,262445,54.61,91.2,2.8,8,Low,60.15,Yes,No,3.3,Good,1,Sports,Pass,Offline,52,53
+680,Shreya,Female,18,High School,Tailor,298451,50.1,78.78,4.8,5.8,Medium,96.61,Yes,Yes,3.1,Average,2,None,Pass,Online,70,77
+681,Simran,Female,16,High School,Tailor,406749,99,44.43,4.2,8.5,High,74.41,No,Yes,1.4,Excellent,3,Art,Pass,Online,58,58
+682,Priya,Female,14,UG,Salesperson,390017,69.28,91.27,3,8.3,Medium,98.99,Yes,Yes,1,Poor,4,Sports,Pass,Online,52,53
+683,Rahul,Male,15,High School,Farmer,343863,80.84,64.82,4.7,8.9,High,74.4,No,Yes,3.3,Average,2,Dance,Pass,Online,70,67
+684,Raj,Male,18,High School,Security Guard,152336,62.19,69.7,5,8.5,High,95.15,No,Yes,0.5,Average,3,Music,Pass,Online,65,67
+685,Isha,Female,16,High School,Security Guard,92190,78.41,77.79,1.7,8.4,High,71.74,Yes,Yes,3.3,Poor,1,Music,Pass,Offline,53,54
+686,Meera,Female,16,UG,Accountant,342152,59.42,68.37,4.9,5.7,Medium,82.78,Yes,No,2.6,Excellent,5,Dance,Pass,Offline,52,51
+687,Bhavna,Female,16,PG,Professor,376606,70.01,57.81,1.7,7.4,Low,68.82,Yes,No,2.8,Excellent,4,Art,Pass,Offline,52,53
+688,Diya,Female,15,PG,Scientist,125694,85.08,40.53,3.4,7.4,Low,91.32,No,No,2.4,Average,2,Sports,Pass,Offline,52,53
+689,Neha,Female,17,High School,Security Guard,395137,90.83,93.13,1.9,7.5,High,50.99,Yes,Yes,1.5,Excellent,5,Art,Pass,Online,25,21
+690,Komal,Female,15,High School,Shopkeeper,327675,92.51,85.86,5.8,7,Medium,63.6,No,Yes,3,Excellent,4,Music,Pass,Online,63,63
+691,Nikita,Female,16,High School,Farmer,298921,55.48,72.52,2.2,6.7,Low,66.27,No,No,3.1,Good,1,Dance,Pass,Online,57,58
+692,Riya,Female,16,High School,Farmer,297785,77.1,52.52,5,6.9,Low,95.69,Yes,No,3.9,Average,1,Art,Pass,Offline,80,85
+693,Kavya,Female,14,UG,Accountant,104368,69.02,57.23,5.4,5.8,Medium,61.18,Yes,Yes,2.3,Poor,3,None,Pass,Offline,52,53
+694,Vikram,Male,17,PG,Manager,347112,54.19,65.3,5.7,6.1,Medium,95.07,Yes,No,1.6,Excellent,4,Sports,Pass,Online,52,53
+695,Manish,Male,18,UG,Accountant,197868,69.39,88.45,3.9,5.5,Medium,66.79,Yes,No,0.2,Average,3,None,Pass,Online,52,53
+696,Harsh,Male,15,UG,Salesperson,332186,57.41,86.91,2.6,8.3,Low,75.15,No,No,0.5,Good,4,None,Pass,Offline,52,53
+697,Yash,Male,15,High School,Farmer,467972,65.24,63.37,3.6,7.9,Medium,59.09,Yes,No,0.2,Excellent,5,Music,Pass,Offline,38,34
+698,Rahul,Male,17,UG,Teacher,396007,95.29,81.34,1.6,7.6,Low,73.4,No,No,1.8,Good,3,Sports,Pass,Online,52,53
+699,Swati,Female,17,UG,Teacher,315917,87.07,71.8,3.4,5.5,High,80.99,No,No,0.7,Poor,3,None,Pass,Offline,52,53
+700,Kunal,Male,18,High School,Security Guard,168153,57.99,89.42,5.5,5.1,Medium,88.95,No,No,1.7,Poor,3,Art,Pass,Offline,69,68
+701,Vikram,Male,15,PG,Engineer,499634,53.21,76.09,5.3,6.7,Low,74.5,No,No,3.7,Average,3,Sports,Pass,Online,52,53
+702,Kunal,Male,18,UG,Teacher,331321,89.84,84.97,3.6,8.3,Medium,73.63,No,Yes,1.3,Average,3,Art,Pass,Offline,52,53
+703,Pranav,Male,14,PG,Scientist,159477,98.6,95.5,4.2,8.3,Medium,98.23,Yes,Yes,3.2,Average,3,Music,Pass,Online,52,53
+704,Vivaan,Male,18,PG,Engineer,338183,52.63,73.55,5.6,8.9,Low,60.31,No,No,2.9,Average,5,Music,Pass,Offline,52,51
+705,Swati,Female,18,PG,Scientist,363870,70.55,95.42,4.4,8.1,Medium,67.14,No,Yes,0.2,Excellent,2,Art,Pass,Online,52,53
+706,Vikram,Male,18,High School,Tailor,414474,51.61,51.51,1.5,6.3,Low,76.83,No,No,2.3,Poor,4,Music,Pass,Offline,29,29
+707,Simran,Female,15,High School,Driver,199037,71.01,89.06,4.8,6.6,Medium,87.79,Yes,Yes,1.6,Good,4,None,Pass,Online,55,49
+708,Anjali,Female,17,UG,Technician,147370,51.62,94.32,3.7,8.7,High,86.14,Yes,Yes,0.3,Poor,1,Art,Pass,Offline,52,53
+709,Shreya,Female,16,UG,Technician,284166,78.13,87.69,4.7,5.3,High,75.92,Yes,No,2.8,Poor,2,Art,Pass,Offline,52,53
+710,Rajat,Male,17,PG,Manager,168211,85.4,84.4,2.2,6.3,Medium,93.05,Yes,No,1.5,Poor,3,None,Pass,Offline,52,53
+711,Raj,Male,18,PG,Engineer,495400,85.63,61.25,3.1,5.9,Low,85.86,Yes,Yes,0.5,Good,3,Dance,Pass,Online,52,53
+712,Komal,Female,16,PG,Professor,375128,81.27,65.69,2.1,7.8,Medium,70.49,Yes,Yes,1.6,Poor,5,Music,Pass,Offline,52,49
+713,Pooja,Female,15,High School,Shopkeeper,153621,94.39,62.77,1.8,7.9,High,90.34,Yes,No,3.8,Poor,4,None,Pass,Offline,31,31
+714,Aanya,Female,16,High School,Security Guard,265322,66.7,74.38,1.7,7,Medium,72.02,No,No,0.9,Good,3,Music,Pass,Offline,38,40
+715,Abhishek,Male,17,UG,Clerk,321802,69.75,89.9,5.4,8.3,Low,60.42,Yes,Yes,3,Poor,1,Dance,Pass,Online,52,53
+716,Tanya,Female,15,High School,Security Guard,486394,77.79,43.5,4.9,8.9,High,73.11,Yes,Yes,2.8,Average,5,Art,Pass,Offline,49,45
+717,Sakshi,Female,15,UG,Teacher,142394,66.81,47.98,4.2,7.6,High,66.32,No,Yes,3.3,Excellent,5,Music,Pass,Offline,52,51
+718,Komal,Female,17,PG,Scientist,277342,83.44,61.45,5.7,5.4,Low,80.11,No,No,2.5,Excellent,4,Sports,Pass,Online,52,53
+719,Siddharth,Male,15,PG,Engineer,137780,58.23,71.42,1.1,7.6,Low,97.06,Yes,Yes,3.9,Average,3,Art,Pass,Offline,52,53
+720,Yash,Male,15,PG,Engineer,78090,89.12,66.7,3.2,8.2,Low,90.68,Yes,No,1.9,Average,5,Sports,Pass,Online,52,50
+721,Pranav,Male,17,PG,Professor,355673,62.85,69.02,2.8,5.7,Low,93.28,Yes,Yes,3.5,Average,4,None,Pass,Online,52,53
+722,Aditya,Male,16,PG,Scientist,481939,66.16,80.21,5,7.1,Low,74.99,No,No,0.9,Average,2,None,Pass,Offline,52,53
+723,Nikita,Female,16,UG,Clerk,52350,56.87,49.87,3.9,7.7,Medium,59.37,No,No,1.4,Excellent,4,Art,Pass,Offline,52,53
+724,Priya,Female,15,UG,Salesperson,118609,53.87,81.64,3.5,7.9,High,58.71,Yes,Yes,0.7,Average,2,Sports,Pass,Online,52,53
+725,Bhavna,Female,15,PG,Manager,346063,83.76,57.87,3.5,7.7,Medium,73.56,Yes,Yes,0.6,Excellent,4,None,Pass,Offline,52,53
+726,Meera,Female,14,UG,Salesperson,321016,78.5,58.26,1.3,8.8,High,66.69,Yes,No,3.7,Average,5,Sports,Pass,Online,52,50
+727,Simran,Female,14,UG,Technician,223125,75.98,63.48,4,7.2,Medium,75.28,No,No,0.7,Excellent,1,Art,Pass,Offline,52,53
+728,Riya,Female,18,UG,Accountant,491374,90.31,83.87,4.5,7.4,Medium,73.97,Yes,Yes,1.8,Poor,1,Music,Pass,Online,52,53
+729,Isha,Female,17,UG,Salesperson,172202,78.26,42.97,1.1,8.6,Medium,98.07,No,Yes,3.1,Poor,1,Sports,Pass,Offline,52,53
+730,Priya,Female,18,UG,Technician,392522,74.9,81.25,1.2,7.5,Medium,68.43,Yes,No,3,Good,1,Music,Pass,Offline,52,53
+731,Kunal,Male,16,PG,Engineer,113355,51.6,93.7,1.7,8.7,Medium,59.61,No,No,1.7,Excellent,1,Sports,Pass,Online,52,53
+732,Amit,Male,15,UG,Teacher,451666,91.18,46.56,1.3,7.8,Medium,91.4,No,Yes,2.7,Excellent,4,Music,Pass,Online,52,53
+733,Diya,Female,14,PG,Manager,413166,66.31,88.21,5.6,8.2,High,73.66,Yes,Yes,1.1,Good,2,Art,Pass,Offline,52,53
+734,Aryan,Male,14,High School,Farmer,441060,59.94,59.85,3,5.1,Medium,79,Yes,No,0.4,Excellent,5,Dance,Pass,Online,34,25
+735,Meera,Female,14,UG,Salesperson,473720,92.92,40.25,5.1,6.6,Low,76.26,No,Yes,2.6,Good,2,Music,Pass,Offline,52,53
+736,Sakshi,Female,17,PG,Manager,202213,79.17,41.44,5.8,7.2,Low,97.04,Yes,Yes,2.9,Good,5,None,Pass,Online,52,51
+737,Sakshi,Female,15,High School,Driver,373960,91.45,88.59,3.7,8.8,Low,51.16,No,No,0.8,Excellent,5,Dance,Pass,Offline,39,37
+738,Rahul,Male,18,UG,Clerk,266813,57.61,90.65,1.6,6.1,High,86.22,No,Yes,0.2,Good,5,None,Pass,Online,52,50
+739,Nikhil,Male,16,High School,Shopkeeper,106171,82.88,83.52,2.9,7.2,Low,94.35,No,Yes,2.9,Average,3,None,Pass,Online,48,56
+740,Bhavna,Female,16,PG,Professor,251921,86.17,41.95,4.9,6,Low,66.99,No,No,0.7,Excellent,3,Dance,Pass,Offline,52,53
+741,Aryan,Male,17,PG,Engineer,183049,79.61,72.47,4.5,6.5,Medium,55.64,No,Yes,0.9,Poor,3,Music,Pass,Online,52,53
+742,Simran,Female,16,High School,Driver,392531,99.63,44.13,2.4,5.2,High,67.76,Yes,No,0.4,Excellent,4,Sports,Pass,Offline,36,36
+743,Siddharth,Male,14,High School,Farmer,98420,76.63,96,5.3,7.4,High,98.74,Yes,No,3.5,Good,1,None,Pass,Online,82,84
+744,Neha,Female,17,High School,Farmer,63498,90.89,52.48,5.3,8.2,Medium,54.14,Yes,No,0.4,Excellent,2,Dance,Pass,Offline,74,74
+745,Kunal,Male,15,High School,Security Guard,248741,70.86,95.35,1.5,8.3,Medium,56.09,No,No,3,Excellent,4,Music,Pass,Online,29,32
+746,Aryan,Male,15,UG,Salesperson,114055,85.02,90.78,4.8,8.4,Low,78.59,Yes,Yes,3.5,Poor,3,Music,Pass,Online,52,53
+747,Sakshi,Female,17,UG,Clerk,299324,50.21,61.22,1.5,7.7,High,82.49,Yes,Yes,0.5,Poor,1,Music,Pass,Offline,52,53
+748,Vivaan,Male,18,PG,Manager,288282,97.3,54.22,4.6,7.6,High,72.39,Yes,Yes,3.9,Average,1,Music,Pass,Offline,52,53
+749,Simran,Female,16,High School,Driver,403525,50.34,96.2,5.9,8.7,High,88.3,Yes,No,3.8,Average,1,Sports,Pass,Online,87,90
+750,Krishna,Male,14,PG,Scientist,486805,51.65,40.89,5,6.8,Low,94.25,Yes,No,1.3,Poor,3,Music,Pass,Offline,52,53
+751,Manish,Male,17,UG,Teacher,417200,59.7,54.39,3.8,6.2,Low,54,Yes,Yes,0.4,Good,1,Music,Pass,Offline,52,53
+752,Diya,Female,18,High School,Driver,253764,93.98,84.55,1.3,7.7,Medium,59.81,Yes,No,2.5,Poor,5,Art,Pass,Offline,20,13
+753,Sneha,Female,15,UG,Clerk,303734,94.23,40.66,5.9,6.3,Medium,81.78,Yes,No,3.3,Excellent,1,Sports,Pass,Online,52,53
+754,Pooja,Female,16,UG,Salesperson,491855,88.27,60.15,2.1,6.5,Medium,69.65,No,No,1.3,Poor,5,Dance,Pass,Online,52,49
+755,Nikita,Female,16,PG,Doctor,65665,88.67,62.24,4.3,7.9,Medium,59.03,No,No,3.4,Average,4,Dance,Pass,Offline,52,53
+756,Meera,Female,17,High School,Driver,436499,61.39,67.62,4.9,8.8,Medium,53.08,No,No,2.3,Excellent,5,Music,Pass,Offline,49,46
+757,Pranav,Male,16,UG,Salesperson,449555,57.36,64.95,5.9,6.3,Medium,84.09,No,No,0.8,Poor,4,Art,Pass,Offline,52,53
+758,Harsh,Male,17,High School,Security Guard,459309,67.91,83.82,4.4,6.5,Medium,89.32,Yes,No,0.2,Excellent,3,Dance,Pass,Offline,60,61
+759,Anjali,Female,17,High School,Shopkeeper,325339,82.32,57.86,4.2,8.4,High,81.97,Yes,Yes,1.5,Average,2,Sports,Pass,Offline,66,61
+760,Manish,Male,15,High School,Security Guard,350296,88.31,57.01,5.6,6.2,High,67.5,No,No,0.3,Good,5,Music,Pass,Online,54,50
+761,Pranav,Male,17,PG,Manager,379023,81.83,87.55,5.3,5.2,High,58.5,Yes,Yes,3.5,Good,2,Music,Pass,Offline,52,53
+762,Diya,Female,15,PG,Doctor,206511,96.56,81.64,5,8.4,High,94.07,Yes,Yes,4,Excellent,2,Sports,Pass,Online,52,53
+763,Komal,Female,18,High School,Tailor,78619,88.12,88.57,4.2,7.8,Medium,54.75,No,Yes,1.8,Poor,5,Dance,Pass,Offline,43,41
+764,Pranav,Male,14,UG,Salesperson,397696,58.21,92.08,3.5,5.1,High,87,No,Yes,1,Good,4,Sports,Pass,Online,52,53
+765,Meera,Female,17,PG,Manager,359980,84.97,80.54,5.9,8.6,High,95.5,No,No,1.9,Excellent,2,None,Pass,Offline,52,53
+766,Aryan,Male,18,High School,Farmer,90569,67.38,78.78,2.7,7.7,Low,54.33,No,Yes,2.7,Excellent,1,Dance,Pass,Online,61,65
+767,Nikhil,Male,18,UG,Technician,371011,82.31,89.75,2.9,7.6,High,85.76,No,No,0.5,Excellent,3,Sports,Pass,Online,52,53
+768,Sakshi,Female,15,UG,Teacher,358724,99.57,49.3,5.8,8.4,Low,95.17,No,No,3.1,Average,5,Dance,Pass,Offline,52,51
+769,Vikram,Male,18,UG,Teacher,487910,73.3,70.89,5.4,5.4,Low,94.01,Yes,No,0.5,Average,3,Music,Pass,Online,52,53
+770,Krishna,Male,18,High School,Tailor,230394,93.09,59.29,1.1,5.7,High,61.28,Yes,Yes,3,Average,5,Sports,Pass,Online,18,15
+771,Diya,Female,17,PG,Scientist,312602,67.11,78.77,2.6,5.4,Medium,83.44,Yes,No,2.2,Poor,1,None,Pass,Online,52,53
+772,Amit,Male,17,PG,Engineer,395691,58.79,54.95,4.4,5.1,High,73.71,No,Yes,3.3,Good,1,None,Pass,Offline,52,53
+773,Kunal,Male,15,UG,Teacher,349004,52.54,95.92,1.4,6,High,90.82,Yes,Yes,3.2,Average,2,Art,Pass,Offline,52,53
+774,Tanya,Female,17,High School,Security Guard,166881,54.31,58.48,3.4,5.7,Low,80.37,No,No,0.1,Excellent,2,None,Pass,Online,59,64
+775,Aniket,Male,16,High School,Tailor,190729,71.2,92.58,3.3,6.7,High,50.04,No,Yes,0.3,Good,4,None,Pass,Offline,43,47
+776,Tanya,Female,14,UG,Technician,433042,73.6,60.55,6,8,High,71.86,Yes,Yes,3.9,Good,4,Dance,Pass,Offline,52,53
+777,Bhavna,Female,14,High School,Driver,138751,88.14,43.97,4.3,7.8,Low,55.89,Yes,Yes,1.4,Excellent,4,Music,Pass,Offline,51,51
+778,Tanya,Female,18,PG,Manager,358089,52.75,70.41,3.2,6.3,Low,66.9,Yes,Yes,0.7,Average,2,None,Pass,Online,52,53
+779,Amit,Male,15,High School,Security Guard,85487,53.06,98.99,1.4,6.9,High,72.64,No,Yes,0.3,Excellent,2,Dance,Pass,Offline,43,43
+780,Vivaan,Male,15,UG,Technician,361139,72.22,78.63,4.4,8.8,Medium,88.56,Yes,Yes,1.5,Average,4,Music,Pass,Online,52,53
+781,Raj,Male,18,High School,Farmer,408839,70.32,80.34,1.8,8.7,High,52.8,Yes,Yes,1.7,Excellent,2,Sports,Pass,Online,46,46
+782,Aniket,Male,16,High School,Security Guard,286288,88.04,74.91,2.1,6.1,Medium,94.1,Yes,Yes,2.8,Poor,5,None,Pass,Online,26,20
+783,Yash,Male,16,PG,Professor,244279,68.08,68.62,3.3,6,High,75.99,Yes,Yes,2.9,Excellent,1,Dance,Pass,Offline,52,53
+784,Sakshi,Female,14,High School,Security Guard,167313,56.08,54.37,3.3,7.4,Low,83.38,Yes,Yes,1.4,Excellent,4,Music,Pass,Offline,43,46
+785,Abhishek,Male,15,PG,Scientist,207623,82.47,78.37,2.6,9,High,89.73,Yes,Yes,2.5,Excellent,2,Dance,Pass,Offline,52,53
+786,Aditya,Male,16,High School,Tailor,343152,90.21,53.88,5.4,6.9,Low,94.9,No,No,3.2,Good,5,None,Pass,Online,53,51
+787,Trisha,Female,16,UG,Teacher,475622,60.5,65.36,5.7,7.7,Low,88.15,Yes,No,1.1,Poor,1,Sports,Pass,Online,52,53
+788,Pooja,Female,16,UG,Accountant,398691,67.38,88.68,2,7.8,High,56.71,No,No,0.4,Average,5,Music,Pass,Online,52,51
+789,Bhavna,Female,15,High School,Farmer,213080,56.99,64.41,5.4,5.5,Low,51.07,Yes,Yes,2,Poor,3,Music,Pass,Offline,68,67
+790,Neha,Female,14,PG,Professor,116841,91.1,48.8,4.8,8.3,Low,60.46,No,No,1.4,Poor,3,Art,Pass,Offline,52,53
+791,Tanya,Female,15,UG,Clerk,278890,83,68.77,3.2,7.3,Medium,93.81,Yes,Yes,0.8,Average,1,Art,Pass,Online,52,53
+792,Isha,Female,14,High School,Security Guard,442547,86.9,98.35,5,8.6,High,70.77,Yes,Yes,2.2,Good,2,Art,Pass,Offline,72,73
+793,Amit,Male,14,High School,Shopkeeper,71943,98.81,94.92,2.9,7.7,High,99.04,Yes,No,3.4,Good,2,Music,Pass,Offline,55,57
+794,Priya,Female,18,UG,Technician,83356,73.54,43.33,3.2,6.1,High,59.1,Yes,Yes,3.2,Poor,4,Dance,Pass,Offline,52,53
+795,Siddharth,Male,14,PG,Engineer,466325,76.92,90.92,5.4,6.4,Medium,89.33,Yes,No,2.7,Poor,3,None,Pass,Online,52,53
+796,Sneha,Female,16,PG,Engineer,265139,76.82,69.15,1.7,8.3,Medium,51.91,No,Yes,3.8,Good,4,Art,Pass,Offline,52,53
+797,Aryan,Male,17,High School,Farmer,232468,60.24,94.2,5,6.1,Medium,97.67,Yes,Yes,3.9,Good,1,Sports,Pass,Offline,80,85
+798,Shreya,Female,15,High School,Shopkeeper,363462,82.14,40.85,4.6,8.2,High,79.52,No,No,2.5,Poor,4,Sports,Pass,Online,54,57
+799,Raj,Male,15,PG,Professor,119299,75.15,63.21,3.2,8.5,Medium,51.6,No,No,3.1,Poor,4,Art,Pass,Offline,52,53
+800,Simran,Female,14,UG,Accountant,320191,85.58,78.1,3,5.9,High,62.65,No,Yes,1.2,Average,5,Art,Pass,Online,52,50
+801,Aditya,Male,15,High School,Shopkeeper,485495,76.42,52.84,1.2,8.4,Low,58.6,No,No,0.9,Excellent,1,None,Pass,Online,49,54
+802,Raj,Male,15,High School,Security Guard,192113,63.07,40.77,1.4,5.2,Medium,87.75,No,No,3.4,Poor,1,Music,Pass,Offline,51,55
+803,Rajat,Male,17,PG,Engineer,298603,81.17,60.01,1.3,6,High,94.98,Yes,Yes,4,Excellent,1,None,Pass,Online,52,53
+804,Nikhil,Male,18,UG,Accountant,278651,89.58,70.13,5.5,8.7,Medium,75.91,Yes,Yes,1.9,Excellent,5,Music,Pass,Offline,52,48
+805,Aanya,Female,17,UG,Teacher,150952,64.85,75.24,4.8,7.7,Low,73.25,No,No,0.9,Excellent,3,Sports,Pass,Offline,52,53
+806,Kunal,Male,18,UG,Clerk,225231,75.55,50.39,3.6,5.8,High,71.76,No,Yes,1.8,Good,3,Sports,Pass,Online,52,53
+807,Nikita,Female,18,PG,Professor,397476,53.45,60.55,2,6.9,Low,57.62,No,Yes,0.4,Average,2,Art,Pass,Offline,52,53
+808,Riya,Female,14,High School,Driver,88581,92.29,62.29,2.4,8.7,High,84.02,No,No,0.8,Good,5,Music,Pass,Online,29,26
+809,Trisha,Female,18,PG,Doctor,197147,57.36,72.92,4,6.8,Medium,90.62,Yes,No,0.6,Good,4,Music,Pass,Offline,52,53
+810,Riya,Female,16,UG,Teacher,192652,81.78,96.25,1.3,7.7,High,51.48,Yes,Yes,0.2,Average,5,Sports,Pass,Offline,52,48
+811,Nikhil,Male,16,UG,Clerk,287349,55.79,61.06,4.1,6.2,High,78.77,Yes,Yes,3.7,Poor,4,Sports,Pass,Offline,52,53
+812,Bhavna,Female,16,PG,Professor,485103,74.33,99.56,5.9,8.3,High,71.55,Yes,Yes,0.1,Excellent,1,Dance,Pass,Offline,52,53
+813,Abhishek,Male,16,PG,Scientist,178653,65.98,61.72,2.4,5.7,Medium,77.27,No,Yes,1.6,Excellent,5,Sports,Pass,Online,52,49
+814,Krishna,Male,14,UG,Accountant,139409,66.69,42.02,3.3,8.2,High,98.55,Yes,No,1.2,Excellent,4,Sports,Pass,Offline,52,53
+815,Manish,Male,18,UG,Accountant,330184,90.88,40.31,5.5,8.6,Low,51.31,No,Yes,3.5,Good,5,None,Pass,Online,52,49
+816,Riya,Female,16,High School,Tailor,404934,63.75,58.71,6,7.4,High,56.48,No,No,1.4,Good,4,None,Pass,Online,65,65
+817,Nikita,Female,15,UG,Teacher,235110,52.09,75.89,4.5,8.5,High,71.48,No,No,3.8,Average,5,None,Pass,Offline,52,48
+818,Diya,Female,18,UG,Salesperson,82368,78.04,45.45,3.6,6,Low,90.16,Yes,No,3.8,Good,2,None,Pass,Offline,52,53
+819,Aniket,Male,14,High School,Security Guard,452456,77.85,69.56,2.4,5.4,Low,90.6,No,Yes,0.8,Good,4,Sports,Pass,Offline,36,37
+820,Sakshi,Female,17,UG,Accountant,296854,55.9,73.12,1.2,8,Medium,85.22,Yes,Yes,0.5,Average,1,Sports,Pass,Offline,52,53
+821,Shreya,Female,14,High School,Security Guard,107007,54.9,57.44,5.4,6.9,Low,87.78,Yes,Yes,2.6,Poor,1,Music,Pass,Offline,83,85
+822,Tanya,Female,17,UG,Clerk,69014,50.07,71.32,5.2,6,Low,82.64,Yes,Yes,2.9,Excellent,3,None,Pass,Offline,52,53
+823,Krishna,Male,15,UG,Salesperson,336322,89.2,71.13,1.7,5.4,Medium,50.24,Yes,Yes,2.4,Average,4,Dance,Pass,Offline,52,53
+824,Riya,Female,17,High School,Shopkeeper,358932,90.8,75.41,1.1,8.4,Low,53.17,No,No,1.1,Average,4,Art,Pass,Offline,26,24
+825,Aditya,Male,14,PG,Manager,70378,74.22,54.18,1.3,6,Low,79.23,Yes,No,3.4,Good,2,Music,Pass,Online,52,53
+826,Trisha,Female,18,PG,Doctor,292116,86.28,97.72,5.8,9,High,76,Yes,No,1.4,Poor,5,None,Pass,Online,52,49
+827,Swati,Female,14,PG,Engineer,416894,62.11,72.34,5.8,6.8,Medium,99.65,No,Yes,2,Excellent,5,Art,Pass,Online,52,47
+828,Aarav,Male,14,PG,Manager,126365,69.28,76.44,4.8,5.6,High,77.45,No,No,0.9,Poor,4,Music,Pass,Online,52,53
+829,Vikram,Male,14,PG,Manager,159159,71.96,91.83,3.4,8.6,High,72.91,No,Yes,1.8,Good,3,Sports,Pass,Online,52,53
+830,Aniket,Male,18,High School,Shopkeeper,113208,57.24,85.93,4.4,6.8,Low,97.11,No,No,2.7,Average,2,Dance,Pass,Offline,67,66
+831,Sakshi,Female,16,PG,Doctor,116853,68.73,64.45,4.3,6.4,Low,81.38,Yes,No,3.6,Excellent,3,Sports,Pass,Offline,52,53
+832,Rahul,Male,14,High School,Security Guard,130063,78.06,41.39,2.1,7.6,Low,93.28,Yes,No,2.8,Poor,4,Music,Pass,Online,34,34
+833,Vikram,Male,17,PG,Engineer,485933,93.66,43.61,3.5,8.1,Low,60.85,Yes,No,1.7,Good,5,None,Pass,Offline,52,49
+834,Siddharth,Male,14,High School,Shopkeeper,86325,68.7,64.05,5.1,8.1,Medium,75.92,No,Yes,1.3,Excellent,3,Dance,Pass,Online,65,61
+835,Tanya,Female,16,High School,Security Guard,162619,99.22,91.25,1.7,8.1,Low,53.46,No,No,0.2,Poor,4,Art,Pass,Online,31,31
+836,Kunal,Male,16,High School,Farmer,239324,76.11,48.08,5,6.4,High,62.02,No,No,2.7,Poor,2,Art,Pass,Offline,72,72
+837,Diya,Female,14,UG,Accountant,238710,55.69,67.63,5.6,5.8,Medium,85.22,Yes,Yes,0.7,Excellent,3,Art,Pass,Offline,52,53
+838,Rahul,Male,15,High School,Tailor,374362,93.97,66.92,1.2,7.3,High,76.18,No,No,1.7,Good,3,None,Pass,Offline,34,29
+839,Neha,Female,17,High School,Security Guard,398550,62.16,47.16,4.8,8.7,Medium,94.84,No,No,1.1,Average,5,None,Pass,Online,48,44
+840,Manish,Male,14,High School,Farmer,279466,62.56,41.46,4.7,6.3,High,88.43,Yes,No,0.7,Poor,3,Sports,Pass,Offline,62,61
+841,Shreya,Female,15,High School,Security Guard,479736,69.61,95.26,2.6,8.8,Low,90.81,No,Yes,0.8,Good,5,Sports,Pass,Online,30,29
+842,Shreya,Female,15,PG,Manager,89201,69.86,66.39,2.1,8.5,Low,93.58,No,No,2.4,Poor,5,Art,Pass,Offline,52,51
+843,Riya,Female,16,UG,Technician,406479,60.44,53.69,3.4,5.4,Medium,51.12,Yes,No,1.4,Excellent,4,Dance,Pass,Offline,52,53
+844,Pranav,Male,17,UG,Technician,96411,69.68,63.52,3.6,7.5,Medium,55.59,Yes,Yes,2,Poor,3,Dance,Pass,Online,52,53
+845,Bhavna,Female,14,PG,Doctor,422389,59.74,69.66,1.3,5.8,Low,88.05,Yes,No,0.7,Poor,1,Dance,Pass,Online,52,53
+846,Komal,Female,14,PG,Scientist,233176,53.7,47.32,2,7.4,Medium,94.88,No,No,0.7,Poor,3,None,Pass,Online,52,53
+847,Manish,Male,14,High School,Farmer,458183,69.65,69.16,2,6,Medium,86.42,Yes,No,3.3,Good,3,Music,Pass,Offline,41,42
+848,Simran,Female,16,UG,Clerk,130982,76.25,72.56,1.2,6.4,High,59.88,No,No,1.8,Average,3,Music,Pass,Online,52,53
+849,Isha,Female,17,High School,Security Guard,226795,90.74,88.05,1.2,8.7,Medium,82.96,Yes,Yes,1.3,Average,1,Sports,Pass,Online,49,52
+850,Harsh,Male,16,PG,Doctor,487701,93.19,51.61,1.8,8,Medium,50.74,Yes,No,1.5,Poor,5,Art,Pass,Online,52,47
+851,Komal,Female,14,High School,Security Guard,391925,65.11,88.4,2.4,7.6,Low,70.58,No,Yes,1.7,Good,2,Sports,Pass,Online,51,48
+852,Neha,Female,14,High School,Driver,172822,91.15,59.89,2.7,5.7,Medium,55.73,No,Yes,0.6,Poor,3,Music,Pass,Online,46,43
+853,Amit,Male,16,PG,Manager,68427,90.05,60.49,1.6,7.4,Low,61.41,No,Yes,1,Average,3,None,Pass,Online,52,53
+854,Pooja,Female,18,UG,Technician,137614,73.9,52.78,1.8,6.8,Medium,60.68,No,Yes,0.1,Good,5,Music,Pass,Offline,52,49
+855,Kavya,Female,15,High School,Driver,498699,79.89,90.05,5.3,5.7,Low,95.94,Yes,No,3.7,Excellent,5,Music,Pass,Offline,52,49
+856,Rajat,Male,18,PG,Doctor,499562,80.83,90.9,1.5,6.5,Low,70.75,Yes,Yes,0.6,Good,3,Art,Pass,Offline,52,53
+857,Diya,Female,18,PG,Doctor,61080,89.66,62.48,4.2,7.9,High,52.61,Yes,Yes,4,Excellent,5,Music,Pass,Offline,52,50
+858,Komal,Female,16,UG,Salesperson,78900,95.69,95.06,5.7,6.4,Low,64.69,No,No,3.9,Average,1,Art,Pass,Offline,52,53
+859,Yash,Male,18,High School,Security Guard,213652,82.21,54.12,5.7,8.3,Low,88.07,Yes,No,0.2,Average,1,Music,Pass,Online,85,90
+860,Aarav,Male,14,PG,Manager,313404,50.19,77.62,3.7,7.3,Low,92.18,No,Yes,3.6,Good,2,None,Pass,Online,52,53
+861,Pranav,Male,14,PG,Doctor,178068,97.28,51.37,3.1,6.5,Medium,66.09,Yes,Yes,0.4,Good,4,Dance,Pass,Online,52,53
+862,Manish,Male,18,UG,Salesperson,108826,77.33,55.15,2.2,6.4,Low,85.95,Yes,Yes,2,Excellent,3,Art,Pass,Offline,52,53
+863,Swati,Female,16,PG,Professor,214443,79.53,64.81,1.4,7,High,65.81,No,No,2,Excellent,1,Art,Pass,Offline,52,53
+864,Vikram,Male,14,PG,Professor,253919,53.43,57.72,3.2,5.7,High,55.37,No,Yes,2.6,Excellent,2,Art,Pass,Online,52,53
+865,Abhishek,Male,14,PG,Engineer,489374,72,91.85,1.2,7.5,High,95.36,Yes,Yes,3.7,Average,1,Sports,Pass,Offline,52,53
+866,Trisha,Female,18,High School,Security Guard,95259,75.98,45.47,4.8,7.1,High,52.99,Yes,Yes,0.7,Good,4,Dance,Pass,Offline,55,53
+867,Tanya,Female,14,UG,Clerk,175838,98.49,99.33,4.6,5.3,High,64.32,No,Yes,1.2,Poor,2,Dance,Pass,Online,52,53
+868,Amit,Male,14,UG,Accountant,108325,84.63,46.65,4.9,6.4,Low,57.51,Yes,No,2.6,Poor,1,None,Pass,Online,52,53
+869,Rajat,Male,16,PG,Scientist,374644,80.27,53.13,1.1,6.7,High,62.52,Yes,Yes,0.8,Excellent,1,Music,Pass,Online,52,53
+870,Vivaan,Male,18,High School,Shopkeeper,130899,54.42,84.8,2.6,7.1,High,70.78,Yes,No,2.1,Good,3,Art,Pass,Online,45,55
+871,Amit,Male,18,PG,Manager,184888,64.53,99.66,3.9,8.6,Medium,84.29,Yes,Yes,0.9,Excellent,3,Dance,Pass,Online,52,53
+872,Simran,Female,18,High School,Shopkeeper,350349,95.8,55.73,3.2,5.1,Medium,59.01,Yes,No,2.8,Average,3,Music,Pass,Online,50,50
+873,Swati,Female,15,PG,Engineer,157949,63.6,93.33,3.8,6,High,94.89,Yes,Yes,1.7,Excellent,2,Music,Pass,Online,52,53
+874,Vivaan,Male,15,High School,Driver,52043,51.27,69.28,5.1,5.9,Low,68.31,Yes,Yes,3.1,Poor,2,Art,Pass,Offline,73,69
+875,Komal,Female,18,PG,Professor,352535,80.13,63.25,3.4,5.2,High,63.55,Yes,No,0.5,Average,3,Art,Pass,Online,52,53
+876,Abhishek,Male,14,High School,Security Guard,358265,91.05,81.25,5.9,6.9,High,83.58,No,No,2.4,Average,4,Sports,Pass,Offline,64,64
+877,Vikram,Male,15,High School,Driver,313792,74.72,53.68,1.4,7.1,Low,80.97,No,Yes,3.1,Excellent,4,None,Pass,Online,28,28
+878,Yash,Male,14,PG,Professor,386206,87.79,90.13,3.8,6.2,Low,52.71,No,No,3.7,Poor,4,None,Pass,Offline,52,53
+879,Aarav,Male,16,High School,Farmer,237860,86.14,55.36,3.9,7.3,High,94.87,No,Yes,1.7,Average,2,Art,Pass,Online,63,63
+880,Amit,Male,17,UG,Salesperson,196904,68.55,59.12,4.7,8.8,Low,95.28,No,No,3,Good,4,Sports,Pass,Offline,52,53
+881,Aditya,Male,18,PG,Scientist,268695,62.61,61.06,2.9,6.6,High,50.83,No,Yes,1.7,Poor,1,Art,Pass,Offline,52,53
+882,Rohan,Male,17,PG,Engineer,176553,75.89,57.2,1.4,5.9,Low,66.42,No,No,0.5,Poor,1,None,Pass,Online,52,53
+883,Rohan,Male,16,PG,Doctor,328994,53.16,78.95,3.8,8.1,Low,91.64,Yes,Yes,1.9,Average,5,Sports,Pass,Offline,52,47
+884,Nikhil,Male,14,UG,Teacher,417085,81.46,72.84,5.1,8.2,Medium,56.45,Yes,Yes,2.8,Poor,1,Music,Pass,Online,52,53
+885,Vivaan,Male,16,UG,Salesperson,117998,71.71,96.74,3.8,7,Medium,54.19,Yes,Yes,0.5,Good,2,None,Pass,Online,52,53
+886,Rohan,Male,18,UG,Teacher,204457,79.17,66.88,1.6,6.6,Medium,89.09,Yes,No,3.7,Poor,5,Dance,Pass,Online,52,47
+887,Priya,Female,16,High School,Tailor,66141,54.04,99.96,4.1,6.6,Low,64.61,No,Yes,1.6,Average,1,Dance,Pass,Online,72,77
+888,Meera,Female,18,UG,Salesperson,343552,87.56,55.25,1.7,6.4,Low,80.64,No,Yes,1.8,Poor,4,Sports,Pass,Online,52,53
+889,Sakshi,Female,18,High School,Tailor,227182,50.3,66.64,1.5,5.4,Medium,97.92,Yes,No,3.9,Excellent,1,Dance,Pass,Online,52,54
+890,Meera,Female,16,PG,Professor,192792,68,56.84,5.6,8.7,Medium,55.27,Yes,No,3.8,Average,3,Music,Pass,Offline,52,53
+891,Komal,Female,18,High School,Driver,52312,84.41,93.21,3.2,6.6,Low,92.24,No,Yes,2.8,Poor,4,Sports,Pass,Online,43,47
+892,Siddharth,Male,14,High School,Shopkeeper,53658,97.81,54.38,4.5,8.5,High,64.76,No,Yes,0.8,Excellent,3,None,Pass,Online,61,63
+893,Aditya,Male,16,High School,Driver,402205,84.89,65.05,1.6,8.2,Low,69.5,No,No,3.3,Poor,4,Music,Pass,Offline,30,35
+894,Aanya,Female,15,UG,Accountant,338071,92.74,55.16,3.8,6.2,Low,53.13,No,No,1.6,Good,5,Dance,Pass,Online,52,48
+895,Kunal,Male,16,UG,Technician,282478,85.87,64.51,2.1,5.8,High,52.29,No,Yes,2.9,Average,3,None,Pass,Offline,52,53
+896,Bhavna,Female,15,High School,Shopkeeper,314554,79.15,80.72,4.1,5.6,Medium,66.09,Yes,Yes,2.3,Poor,1,Sports,Pass,Offline,72,76
+897,Kunal,Male,14,PG,Engineer,446285,63.71,96.72,4.3,5.9,Low,93.56,Yes,No,0.4,Good,5,None,Pass,Online,52,49
+898,Meera,Female,16,PG,Engineer,147068,61.17,45.89,4.8,5.5,Low,50.88,No,No,3.2,Good,1,Dance,Pass,Offline,52,53
+899,Vikram,Male,17,PG,Doctor,342360,85.54,86.04,1.3,7.5,Low,91.38,Yes,No,1.5,Good,5,None,Pass,Offline,52,48
+900,Shreya,Female,15,PG,Doctor,179880,89.29,74.9,4.6,7.5,Low,56.67,No,No,1.9,Poor,1,Art,Pass,Online,52,53
+901,Priya,Female,15,High School,Tailor,92814,67.04,77.53,5.6,5.3,Medium,51.2,No,Yes,0.7,Poor,2,None,Pass,Offline,77,79
+902,Bhavna,Female,15,High School,Farmer,275895,85.21,54.52,5.6,7.5,Medium,57.21,No,No,2.7,Average,1,Art,Pass,Online,84,85
+903,Bhavna,Female,16,High School,Tailor,439690,57.25,66.74,5.8,6.1,Medium,69.91,No,No,0.9,Average,4,None,Pass,Offline,63,64
+904,Vivaan,Male,17,High School,Farmer,172744,78.27,57.08,5.8,8.7,High,69.19,Yes,No,2.1,Poor,1,Sports,Pass,Offline,86,92
+905,Tanya,Female,17,PG,Engineer,273590,98.5,79.77,5.1,5.1,Low,90.94,No,Yes,2.7,Poor,4,Music,Pass,Offline,52,53
+906,Diya,Female,16,PG,Professor,251473,85.2,43.24,5.6,7.2,Medium,97.55,No,No,2.3,Poor,3,Dance,Pass,Offline,52,53
+907,Aarav,Male,18,PG,Manager,364915,81.75,89.96,6,8.4,High,75.83,Yes,No,1.6,Good,1,Music,Pass,Online,52,53
+908,Diya,Female,18,UG,Technician,437644,98.6,84.09,5,8.2,High,66.39,No,No,1,Poor,1,Music,Pass,Online,52,53
+909,Kavya,Female,18,PG,Doctor,255959,90.62,96,4,7.5,Low,65.7,No,Yes,3.7,Excellent,1,None,Pass,Offline,52,53
+910,Aditya,Male,17,PG,Doctor,446796,69.84,47.5,1.5,7.3,Medium,94.24,No,No,0.7,Excellent,2,Music,Pass,Offline,52,53
+911,Rajat,Male,17,High School,Driver,255931,81.25,59.57,3.8,6.1,High,50.78,No,Yes,3.8,Poor,3,Sports,Pass,Offline,55,55
+912,Tanya,Female,17,UG,Salesperson,427169,70.13,53.28,2.9,5.6,Medium,55.41,No,Yes,3.9,Average,2,Sports,Pass,Offline,52,53
+913,Komal,Female,17,UG,Clerk,105298,86.74,58.51,2.3,6.9,Medium,91.32,Yes,Yes,0,Excellent,3,Dance,Pass,Online,52,53
+914,Tanya,Female,17,PG,Manager,115330,77.13,56.1,4.2,7.5,High,56.39,No,No,3.7,Good,5,Sports,Pass,Offline,52,47
+915,Sakshi,Female,14,PG,Manager,244646,90.68,46.77,1.3,5.2,Medium,88.72,Yes,Yes,0.4,Good,2,None,Pass,Online,52,53
+916,Aniket,Male,15,UG,Technician,234179,70.19,70.36,4.3,5.3,Low,68.69,No,Yes,0.2,Good,3,Music,Pass,Offline,52,53
+917,Pranav,Male,16,High School,Shopkeeper,453425,95.1,64.21,5.7,6.7,High,86.02,No,Yes,1,Average,2,Music,Pass,Online,78,78
+918,Krishna,Male,16,PG,Engineer,426738,51.56,65.12,2.6,6.3,Low,84.82,No,No,1.3,Excellent,4,None,Pass,Offline,52,53
+919,Aditya,Male,16,UG,Teacher,157022,93,80.59,5.5,6.7,High,81.87,Yes,No,3.1,Good,3,Music,Pass,Online,52,53
+920,Aditya,Male,18,High School,Driver,129925,50.74,63.64,5.1,7.1,High,62.14,No,No,1.6,Poor,3,None,Pass,Offline,65,66
+921,Swati,Female,17,UG,Technician,136322,64.74,51.23,1.2,8.1,Medium,99.76,Yes,Yes,2.7,Excellent,5,Sports,Pass,Online,52,48
+922,Harsh,Male,16,PG,Engineer,147973,58.16,72.25,3,5.7,Low,82.07,Yes,No,2.2,Excellent,3,Sports,Pass,Offline,52,53
+923,Aditya,Male,15,High School,Tailor,185225,78.29,76.65,5.1,7.1,Medium,98.25,No,Yes,2.3,Average,5,Art,Pass,Online,50,48
+924,Diya,Female,18,PG,Doctor,224283,55.2,69.83,2,7.8,High,89.19,No,Yes,1.8,Average,2,Dance,Pass,Online,52,53
+925,Nikhil,Male,17,UG,Technician,129356,95.5,41.66,2.1,5.2,High,90.32,Yes,No,0.9,Excellent,1,None,Pass,Offline,52,53
+926,Diya,Female,16,UG,Salesperson,345104,72.92,56.51,2.2,6,Low,60.87,Yes,No,3.2,Excellent,2,Music,Pass,Offline,52,53
+927,Shreya,Female,15,PG,Manager,397411,93.95,64.98,3.4,8.7,Medium,99.92,No,No,3.2,Excellent,3,Sports,Pass,Offline,52,53
+928,Neha,Female,18,PG,Scientist,356761,94.45,69.39,5.9,8.7,Medium,93.63,No,No,2.7,Excellent,5,Dance,Pass,Offline,52,47
+929,Rohan,Male,16,PG,Doctor,449913,80.84,75.73,3.7,5.3,High,83.52,No,Yes,0.5,Poor,3,Music,Pass,Online,52,53
+930,Anjali,Female,15,PG,Engineer,201828,89.45,69.06,3.4,8.9,Low,66.63,Yes,Yes,0.8,Excellent,5,Dance,Pass,Offline,52,49
+931,Amit,Male,17,PG,Manager,436058,86.79,99.15,2.1,8.2,Low,72.33,Yes,No,3.9,Poor,5,None,Pass,Online,52,48
+932,Komal,Female,15,PG,Scientist,143848,58.98,83.88,2,8.2,Low,51.64,No,Yes,0.3,Poor,5,Art,Pass,Online,52,50
+933,Aarav,Male,16,High School,Driver,70383,74.21,81.72,2.2,8.2,High,94.05,No,No,0.2,Excellent,4,Art,Pass,Online,35,35
+934,Aanya,Female,16,UG,Salesperson,218671,61.72,49.69,2.2,6.6,High,97.35,No,No,1.2,Poor,5,None,Pass,Offline,52,49
+935,Aditya,Male,17,UG,Accountant,331946,95.53,92.86,1.3,7.3,Medium,53.09,No,No,1.8,Good,4,Sports,Pass,Online,52,53
+936,Rajat,Male,16,UG,Clerk,246422,68.69,57.71,3.9,7.6,Low,68.13,Yes,No,3,Average,1,Music,Pass,Offline,52,53
+937,Vivaan,Male,18,PG,Manager,378343,99.49,47.44,5.7,5.6,Medium,86.68,Yes,No,3,Poor,5,Music,Pass,Offline,52,47
+938,Sneha,Female,15,UG,Technician,377092,65.32,65.11,1.5,8.8,High,50.24,Yes,Yes,0.1,Average,5,Music,Pass,Online,52,49
+939,Shreya,Female,18,PG,Professor,422984,69.49,44.35,5.4,7,Medium,86.72,No,Yes,3.5,Poor,1,Art,Pass,Offline,52,53
+940,Kunal,Male,16,PG,Doctor,74128,96.66,71.21,5.2,7.6,Low,91.82,No,Yes,1,Poor,5,Sports,Pass,Offline,52,48
+941,Amit,Male,17,High School,Driver,247442,64.64,40.15,4.2,7.2,Low,53.04,Yes,No,3.8,Excellent,4,Dance,Pass,Online,51,44
+942,Siddharth,Male,14,PG,Engineer,281975,94.35,99.21,1.6,7.8,Low,96.13,Yes,No,4,Poor,5,None,Pass,Online,52,49
+943,Amit,Male,17,PG,Scientist,402547,61.78,67.82,2.5,5.9,Medium,92.88,No,No,0.9,Good,5,Sports,Pass,Offline,52,49
+944,Amit,Male,15,PG,Scientist,385099,78.32,40.64,3.5,6.8,High,64.52,Yes,Yes,1,Excellent,5,Dance,Pass,Offline,52,51
+945,Kunal,Male,18,UG,Clerk,379421,87.33,73.46,4.8,8.5,Low,69.95,No,Yes,0.7,Excellent,3,Art,Pass,Online,52,53
+946,Raj,Male,18,PG,Manager,304638,62.49,71.16,1.8,6.3,Low,92.71,No,No,2.4,Poor,2,Dance,Pass,Offline,52,53
+947,Raj,Male,15,UG,Clerk,180944,86.83,41.64,3.6,6.3,Medium,99.62,Yes,No,3.3,Average,4,Music,Pass,Offline,52,53
+948,Abhishek,Male,15,UG,Salesperson,256865,74,62.9,3.6,5.1,Medium,95.07,No,Yes,0.6,Poor,3,Music,Pass,Online,52,53
+949,Shreya,Female,17,High School,Shopkeeper,100538,54.8,68.82,2.8,7.5,Medium,71.93,No,No,1.1,Poor,1,None,Pass,Offline,62,64
+950,Siddharth,Male,17,UG,Teacher,378036,98.29,53.92,3.6,5.3,Medium,86.04,No,Yes,1.5,Excellent,2,Art,Pass,Offline,52,53
+951,Aditya,Male,15,PG,Manager,392466,78.97,92.41,1.4,7.1,Medium,89.1,Yes,Yes,3.6,Average,5,Sports,Pass,Online,52,49
+952,Neha,Female,16,PG,Manager,221891,58.97,77.49,6,6.5,Low,95.6,Yes,Yes,3.5,Average,4,Sports,Pass,Offline,52,53
+953,Rajat,Male,16,PG,Engineer,77765,82.4,81.11,5.5,6.9,High,66.99,No,No,3.3,Good,3,Art,Pass,Online,52,53
+954,Yash,Male,17,High School,Tailor,195491,85.29,86.69,1.4,5.9,High,58.42,No,No,1.7,Good,1,Dance,Pass,Online,51,53
+955,Isha,Female,14,High School,Tailor,451505,54.48,81.44,5.1,7.5,Medium,65.74,Yes,No,0.5,Poor,3,None,Pass,Online,65,65
+956,Aarav,Male,16,PG,Professor,68771,87.57,85.39,3.4,6.1,Medium,82.01,Yes,Yes,1,Average,2,Dance,Pass,Online,52,53
+957,Krishna,Male,17,PG,Doctor,395666,75.46,45.78,5.9,5.5,High,50.86,No,Yes,0.6,Good,2,Art,Pass,Online,52,53
+958,Rohan,Male,17,PG,Manager,106629,70.5,51.79,5.6,5.6,Medium,76.56,Yes,Yes,2.4,Poor,3,Sports,Pass,Offline,52,53
+959,Anjali,Female,15,High School,Farmer,455809,68.36,73.96,1.3,6.3,Medium,98.31,No,Yes,1.6,Excellent,5,Music,Pass,Online,20,17
+960,Aryan,Male,15,PG,Engineer,479944,82.48,75.14,3.8,7.1,Medium,84.63,No,Yes,0.2,Average,1,None,Pass,Offline,52,53
+961,Pranav,Male,16,High School,Driver,374060,93.99,53.62,1.5,6.6,High,80.77,No,No,0.5,Good,2,Music,Pass,Offline,44,47
+962,Abhishek,Male,14,PG,Professor,482071,97.81,80.21,5.6,7.7,High,61.06,Yes,No,2.1,Average,3,None,Pass,Online,52,53
+963,Bhavna,Female,15,UG,Teacher,177060,78.42,53.31,5.2,7.2,High,82.06,Yes,No,2.5,Poor,4,Art,Pass,Online,52,53
+964,Swati,Female,18,PG,Manager,307365,88.62,68.85,3,9,Low,97.82,No,Yes,3.9,Average,4,Dance,Pass,Offline,52,53
+965,Riya,Female,15,High School,Tailor,140931,69.27,86.02,3.6,6.5,High,83.05,Yes,No,1.8,Good,1,Art,Pass,Offline,68,69
+966,Aarav,Male,15,High School,Tailor,185105,51.82,58.49,5.4,8.6,Medium,83.02,Yes,Yes,0.2,Average,4,Art,Pass,Online,60,67
+967,Siddharth,Male,15,High School,Shopkeeper,52246,97.59,49.75,2.3,7,Low,92.21,No,Yes,2.9,Good,2,None,Pass,Offline,50,47
+968,Priya,Female,14,UG,Salesperson,469019,73.38,51.88,4.3,5.2,High,93.9,No,No,3.2,Average,1,Music,Pass,Offline,52,53
+969,Trisha,Female,14,High School,Farmer,319157,90.31,85.22,2.2,6.2,High,67.18,No,Yes,1.2,Excellent,5,None,Pass,Online,27,23
+970,Nikita,Female,14,PG,Doctor,345308,86.11,52.67,3.6,6.4,High,86.32,Yes,Yes,0.9,Poor,3,Dance,Pass,Offline,52,53
+971,Nikita,Female,16,High School,Tailor,324816,97.01,79.91,4.5,7,Low,78.52,No,Yes,3.2,Good,5,Dance,Pass,Online,46,45
+972,Bhavna,Female,14,UG,Clerk,358977,64.71,88.23,5.3,6,Medium,62.52,No,No,0.3,Poor,5,Sports,Pass,Online,52,50
+973,Isha,Female,17,UG,Teacher,151302,87.04,57.16,4.7,7.8,Low,96.8,Yes,No,1.7,Poor,2,Sports,Pass,Offline,52,53
+974,Isha,Female,15,PG,Doctor,250561,75.51,68.96,3.9,5.2,Medium,65.93,No,No,3,Poor,5,Art,Pass,Offline,52,49
+975,Raj,Male,17,UG,Clerk,53628,85.07,50.74,2.3,8,Medium,50.36,No,Yes,1.1,Excellent,3,None,Pass,Online,52,53
+976,Krishna,Male,16,High School,Driver,485304,69.53,40.08,5.3,5,Medium,98.65,Yes,No,1,Average,3,None,Pass,Offline,67,57
+977,Diya,Female,15,PG,Professor,247235,92.47,81.6,1.2,7,Low,74.5,Yes,No,0.8,Excellent,1,Dance,Pass,Offline,52,53
+978,Riya,Female,17,UG,Teacher,447345,57.43,93.33,4.8,8.2,Low,54.59,No,Yes,0.7,Average,2,Music,Pass,Offline,52,53
+979,Aanya,Female,14,PG,Engineer,490106,99.45,65.15,4.2,8.9,High,63.26,Yes,No,2.1,Good,2,Dance,Pass,Online,52,53
+980,Nikhil,Male,17,UG,Salesperson,251400,58.6,58.25,4.9,5.4,Low,98.67,No,No,2.1,Excellent,3,Dance,Pass,Online,52,53
+981,Aditya,Male,16,PG,Professor,263015,80.41,40.49,4.5,8.2,High,75.84,No,No,3.2,Average,2,Music,Pass,Offline,52,53
+982,Raj,Male,15,High School,Shopkeeper,430444,71.86,70.97,2.4,8.2,Low,56.03,Yes,No,3.8,Good,4,Dance,Pass,Online,36,38
+983,Aditya,Male,18,PG,Scientist,158200,94.64,70.81,4,5.9,High,70.18,No,No,0,Good,2,Music,Pass,Offline,52,53
+984,Shreya,Female,17,High School,Shopkeeper,406076,92.28,62.68,1.1,8.4,Low,76.58,No,No,3.7,Good,4,Dance,Pass,Offline,26,26
+985,Vivaan,Male,17,UG,Accountant,168580,70.66,73.59,1.5,8.3,Medium,84.22,Yes,Yes,0.9,Good,5,Art,Pass,Offline,52,48
+986,Priya,Female,16,PG,Engineer,486350,93.89,58.12,5.8,7.3,High,78.83,Yes,No,2.5,Poor,1,None,Pass,Offline,52,53
+987,Neha,Female,15,UG,Clerk,407312,71.16,51.92,5.4,8.2,Medium,65.58,No,No,1.2,Excellent,3,Music,Pass,Online,52,53
+988,Abhishek,Male,16,High School,Security Guard,267641,69.61,66.77,1.5,7.6,Low,97.31,No,No,1.1,Good,4,Music,Pass,Online,29,29
+989,Diya,Female,17,UG,Accountant,342109,75.42,78.66,3.5,6.9,High,58.93,No,Yes,1.6,Average,5,Dance,Pass,Offline,52,50
+990,Rajat,Male,18,UG,Accountant,126768,94.73,97.58,3.9,6.4,Low,83.95,No,Yes,1.6,Excellent,3,Music,Pass,Offline,52,53
+991,Krishna,Male,17,UG,Clerk,132935,92.19,72.73,3.9,7.3,High,51.75,No,No,3.3,Poor,4,Sports,Pass,Online,52,53
+992,Tanya,Female,18,High School,Tailor,386202,81.16,44.7,4.7,8,Medium,96.59,Yes,No,0.2,Average,3,Music,Pass,Online,62,52
+993,Harsh,Male,18,UG,Clerk,50324,68.69,75.46,4.4,5.1,Low,78.95,Yes,No,2.8,Excellent,5,None,Pass,Online,52,50
+994,Rohan,Male,14,High School,Tailor,315575,84.24,80.17,4.7,8,High,53.59,No,No,0.9,Good,3,Art,Pass,Offline,62,62
+995,Riya,Female,16,PG,Manager,345786,56.07,56.75,5.5,6.4,High,90.59,Yes,Yes,3.4,Excellent,4,Art,Pass,Offline,52,53
+996,Simran,Female,18,PG,Scientist,66327,63.05,52.23,1.5,5.3,Medium,59.93,No,Yes,2.5,Excellent,1,Dance,Pass,Offline,52,53
+997,Nikita,Female,15,UG,Technician,156137,71.68,83.62,4.4,8.6,High,82.24,No,Yes,3.2,Excellent,5,Art,Pass,Online,52,51
+998,Nikita,Female,18,High School,Farmer,174248,83.46,96.71,5,5.8,High,72.82,No,Yes,0.8,Excellent,5,Art,Pass,Offline,50,48
+999,Siddharth,Male,18,High School,Shopkeeper,202005,55.32,40.46,4.6,7.4,Medium,60.3,Yes,Yes,2.1,Good,3,Dance,Pass,Offline,61,61
+1000,Sakshi,Female,17,UG,Accountant,307696,54.23,76.71,4.6,5.8,Medium,75.48,Yes,No,1.8,Good,2,Art,Pass,Online,52,53
