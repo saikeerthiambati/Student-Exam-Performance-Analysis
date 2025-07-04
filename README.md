@@ -44,3 +44,11 @@ This project focuses on analyzing student exam performance using Python and data
 2. Install the libraries:
    ```bash
    pip install pandas matplotlib seaborn
+
+
+## 📂 Files
+
+- 📓 [Student Exam Performance Analysis Notebook](Student%20Exam%20Performance%20Analysis(3).ipynb)
+- 📄 [Dataset CSV](Student%20Exam%20Performance%20Analysis%20Data%20set.csv)
+- 📝 [Project Documentation](Student%20Exam%20Performance%20Analysis%20Document.pdf)
+
