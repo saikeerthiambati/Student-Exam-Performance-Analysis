@@ -1,4 +1,4 @@
-# Student Exam Performance Analysis
+# Student Exam Performance Analysis using Python
 
 This project focuses on analyzing student exam performance using Python and data visualization techniques. It helps in identifying key academic and personal factors that influence student outcomes.
 
